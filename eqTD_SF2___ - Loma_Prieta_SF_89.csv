@@ -1,0 +1,2 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,proxFault
+1989-10-18T00:04:15.190Z,37.0361667,-121.87983,17.214,6.9,mh,84,89,0.008108,0.08,nc,nc216859,2021-05-19T04:36:40.847Z,"Loma Prieta, California Earthquake",earthquake,56
