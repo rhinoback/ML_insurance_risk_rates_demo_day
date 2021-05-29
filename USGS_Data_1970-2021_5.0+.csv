@@ -16,9 +16,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2019-10-28T11:01:04.330Z,41.8911667,-125.8366667,9.99,5.24,mw,36,264,1.234,0.2,nc,nc73298125,2020-10-27T11:11:15.113Z,"130km W of Brookings, OR",earthquake,1.37,31.61,,4,reviewed,nc,nc
 2019-07-06T04:18:55.790Z,35.9101667,-117.6848333,7.41,5.44,mw,66,37,0.07213,0.17,ci,ci38457847,2020-05-21T01:08:33.207Z,"20km E of Little Lake, CA",earthquake,0.12,0.36,,6,reviewed,ci,ci
 2019-07-06T03:47:53.420Z,35.9011667,-117.7495,5.04,5.5,mw,49,33,0.07334,0.16,ci,ci38457687,2020-07-09T21:44:24.632Z,"15km ESE of Little Lake, CA",earthquake,0.13,0.5,,4,reviewed,ci,ci
-2019-07-06T03:19:53.040Z,35.7695,-117.5993333,8,7.1,mw,77,43,0.04616,0.22,ci,ci38457511,2021-05-24T07:32:32.436Z,"2019 Ridgecrest Earthquake Sequence",earthquake,0.19,31.61,,0,reviewed,ci,ci
+2019-07-06T03:19:53.040Z,35.7695,-117.5993333,8,7.1,mw,77,43,0.04616,0.22,ci,ci38457511,2021-05-24T07:32:32.436Z,2019 Ridgecrest Earthquake Sequence,earthquake,0.19,31.61,,0,reviewed,ci,ci
 2019-07-05T11:07:53.040Z,35.7603333,-117.575,6.95,5.37,mw,79,43,0.05824,0.2,ci,ci38450263,2020-07-14T17:30:09.310Z,"16km W of Searles Valley, CA",earthquake,0.13,0.36,,6,reviewed,ci,ci
-2019-07-04T17:33:49.000Z,35.7053333,-117.5038333,10.5,6.4,mw,62,47,0.1233,0.16,ci,ci38443183,2021-05-24T07:31:29.183Z,"Ridgecrest Earthquake Sequence",earthquake,0.15,0.36,,6,reviewed,ci,ci
+2019-07-04T17:33:49.000Z,35.7053333,-117.5038333,10.5,6.4,mw,62,47,0.1233,0.16,ci,ci38443183,2021-05-24T07:31:29.183Z,Ridgecrest Earthquake Sequence,earthquake,0.15,0.36,,6,reviewed,ci,ci
 2019-06-23T03:53:02.890Z,40.2735,-124.3003333,9.44,5.58,mw,34,159,0.03116,0.17,nc,nc73201181,2020-07-10T14:25:30.367Z,"6km SSW of Petrolia, CA",earthquake,0.34,0.21,,6,reviewed,nc,nc
 2018-04-05T19:29:16.500Z,33.8375,-119.7258333,9.87,5.29,mw,90,129,0.1747,0.31,ci,ci37908735,2020-09-21T22:50:05.267Z,"29km SW of Santa Cruz Is. (E end), CA",earthquake,0.28,31.61,,6,reviewed,ci,ci
 2017-07-29T00:02:40.910Z,40.7821667,-125.1806667,26.54,5.08,mw,101,230,0.7111,0.18,nc,nc72852151,2017-10-14T00:19:45.040Z,"80km WNW of Ferndale, California",earthquake,0.95,9.97,,5,reviewed,nc,nc
@@ -32,17 +32,17 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2015-05-22T18:47:42.980Z,37.2925,-114.6546,4,5.3,ml,32,109.36,0.335,0.159,nn,nn00495477,2018-06-29T23:53:44.297Z,"37km SSW of Caliente, Nevada",earthquake,,1.9,0.22,11,reviewed,nn,nn
 2015-01-28T21:08:53.710Z,40.3178333,-124.6066667,16.881,5.72,mw,52,230,0.2459,0.13,nc,nc72387946,2020-07-10T14:25:05.382Z,"40km SW of Ferndale, California",earthquake,0.54,0.33,,13,reviewed,nc,nc
 2015-01-01T12:16:14.570Z,40.442,-125.7746667,23.9,5.36,mw,38,271,1.086,0.19,nc,nc72373456,2020-05-02T03:30:06.781Z,"128km W of Ferndale, California",earthquake,1.48,11.77,,8,reviewed,nc,nc
-2014-08-24T10:20:44.070Z,38.2151667,-122.3123333,11.12,6.02,mw,369,28,0.03604,0.18,nc,nc72282711,2021-03-08T17:30:16.641Z,"South Napa",earthquake,0.11,0.15,,0,reviewed,nc,nc
+2014-08-24T10:20:44.070Z,38.2151667,-122.3123333,11.12,6.02,mw,369,28,0.03604,0.18,nc,nc72282711,2021-03-08T17:30:16.641Z,South Napa,earthquake,0.11,0.15,,0,reviewed,nc,nc
 2014-03-29T04:09:42.170Z,33.9325,-117.9158333,5.09,5.1,mw,321,9,0.01443,0.24,ci,ci15481673,2021-05-14T00:36:05.924Z,"2km NW of Brea, CA",earthquake,0.1,0.21,,6,reviewed,ci,ci
 2014-03-10T05:18:13.430Z,40.8286667,-125.1338333,16.441,6.8,mw,112,229,0.6568,0.15,nc,nc72182046,2020-07-10T14:24:50.669Z,"78km WNW of Ferndale, California",earthquake,0.64,1.88,,5,reviewed,nc,nc
 2013-05-24T03:47:08.180Z,40.1918333,-121.0595,7.968,5.69,mw,32,69,0.08649,0.08,nc,nc71996906,2020-07-10T14:24:39.433Z,"10km WNW of Greenville, California",earthquake,0.26,0.68,,5,reviewed,nc,nc
 2013-02-13T00:10:14.393Z,38.0222,-118.0553,7.5,5.1,ml,29,81.88,0.206,0.1391,nn,nn00402688,2018-06-29T22:33:47.366Z,"72km W of Tonopah, Nevada",earthquake,,2.6,0.33,4,reviewed,nn,nn
-2012-10-21T06:55:09.510Z,36.3096667,-120.856,8.619,5.29,mw,100,68,0.06126,0.13,nc,nc71863625,2019-05-07T21:38:43.890Z,"Central California",earthquake,0.17,0.42,,5,reviewed,nc,nc
+2012-10-21T06:55:09.510Z,36.3096667,-120.856,8.619,5.29,mw,100,68,0.06126,0.13,nc,nc71863625,2019-05-07T21:38:43.890Z,Central California,earthquake,0.17,0.42,,5,reviewed,nc,nc
 2012-08-26T20:57:58.220Z,33.0185,-115.5403333,8.283,5.41,mw,47,47,0.0329,0.16,ci,ci15200401,2020-07-09T21:14:09.065Z,"4km NNW of Brawley, CA",earthquake,0.3,0.66,,6,reviewed,ci,ci
 2012-08-26T19:31:23.040Z,33.0171667,-115.5536667,8.323,5.32,mw,56,73,0.03163,0.21,ci,ci15199681,2021-02-19T00:57:47.731Z,"5km NNW of Brawley, CA",earthquake,0.32,0.72,,6,reviewed,ci,ci
-2012-07-21T06:04:21.250Z,40.4116667,-125.3308333,5.871,5.19,mw,42,253,0.7604,0.18,nc,nc71819471,2020-05-02T03:00:52.855Z,"offshore Northern California",earthquake,2.52,2.71,,7,reviewed,nc,nc
-2012-07-21T01:52:01.690Z,40.3853333,-125.528,24.632,5.1,mw,37,254,0.9126,0.26,nc,nc71819391,2020-05-02T03:00:38.615Z,"offshore Northern California",earthquake,1.79,15.81,,16,reviewed,nc,nc
-2012-02-13T21:07:02.770Z,41.1431667,-123.7903333,27.358,5.6,mw,41,72,0.1766,0.27,nc,nc71734741,2020-07-10T14:24:14.907Z,"Northern California",earthquake,0.43,1.19,,4,reviewed,nc,nc
+2012-07-21T06:04:21.250Z,40.4116667,-125.3308333,5.871,5.19,mw,42,253,0.7604,0.18,nc,nc71819471,2020-05-02T03:00:52.855Z,offshore Northern California,earthquake,2.52,2.71,,7,reviewed,nc,nc
+2012-07-21T01:52:01.690Z,40.3853333,-125.528,24.632,5.1,mw,37,254,0.9126,0.26,nc,nc71819391,2020-05-02T03:00:38.615Z,offshore Northern California,earthquake,1.79,15.81,,16,reviewed,nc,nc
+2012-02-13T21:07:02.770Z,41.1431667,-123.7903333,27.358,5.6,mw,41,72,0.1766,0.27,nc,nc71734741,2020-07-10T14:24:14.907Z,Northern California,earthquake,0.43,1.19,,4,reviewed,nc,nc
 2011-02-18T17:47:35.770Z,32.047,-115.0621667,14.929,5.09,mw,11,270,0.4246,0.26,ci,ci14937372,2020-07-07T22:07:48.214Z,"17km SSW of Estacion Coahuila, B.C., MX",earthquake,3.98,31.61,,7,reviewed,ci,ci
 2010-07-07T23:53:33.480Z,33.4173333,-116.4746667,12.318,5.42,mw,112,19,0.09786,0.23,ci,ci10736069,2021-02-12T06:42:11.819Z,"20km NNW of Borrego Springs, CA",earthquake,0.16,0.35,,7,reviewed,ci,ci
 2010-06-15T04:26:58.240Z,32.705,-115.9113333,8.756,5.71,mw,45,71,0.05832,0.2,ci,ci14745580,2020-07-07T22:07:16.775Z,"8km ESE of Ocotillo, CA",earthquake,0.41,0.83,,6,reviewed,ci,ci
@@ -54,14 +54,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2010-04-04T22:43:00.430Z,32.4533333,-115.632,9.981,5.26,ml,16,239,0.3162,0.26,ci,ci10184394,2017-02-08T15:33:36.578Z,"15km SSW of Progreso, B.C., MX",earthquake,1,31.61,0.11,13,reviewed,ci,ci
 2010-04-04T22:40:42.360Z,32.2861667,-115.2953333,9.987,7.2,mw,10,239,0.5137,0.11,ci,ci14607652,2021-05-26T02:54:07.187Z,"12km SW of Delta, B.C., MX",earthquake,1.81,31.61,,0,reviewed,ci,ci
 2010-02-04T20:20:21.970Z,40.4123333,-124.9613333,23.048,5.88,mw,41,233,0.4802,0.19,nc,nc71348851,2020-05-02T02:15:43.109Z,"61km WSW of Ferndale, California",earthquake,1.42,7.41,,7,reviewed,nc,nc
-2010-01-10T00:27:39.320Z,40.652,-124.6925,28.737,6.5,mw,51,220,0.3225,0.2,nc,nc71338066,2020-07-07T22:36:48.275Z,"offshore Northern California",earthquake,0.55,1.31,,8,reviewed,nc,nc
+2010-01-10T00:27:39.320Z,40.652,-124.6925,28.737,6.5,mw,51,220,0.3225,0.2,nc,nc71338066,2020-07-07T22:36:48.275Z,offshore Northern California,earthquake,0.55,1.31,,8,reviewed,nc,nc
 2009-12-30T18:48:57.330Z,32.464,-115.1891667,5.971,5.8,mw,19,205,0.324,0.39,ci,ci14565620,2020-09-10T04:27:37.677Z,"12km N of Delta, B.C., MX",earthquake,1.83,31.61,,7,reviewed,ci,ci
 2009-10-03T01:16:00.310Z,36.391,-117.8608333,-1.77,5.19,mw,36,50,0.1658,0.33,ci,ci14519780,2020-07-07T22:04:49.601Z,"18km NE of Olancha, CA",earthquake,0.46,1.22,,6,reviewed,ci,ci
 2009-10-01T10:01:24.670Z,36.3878333,-117.8586667,3.985,5,mw,34,49,0.1683,0.32,ci,ci14517500,2020-05-02T02:08:06.584Z,"18km NE of Olancha, CA",earthquake,0.49,31.61,,0,reviewed,ci,ci
 2009-09-19T22:55:17.840Z,32.3706667,-115.2611667,9.987,5.08,mw,27,261,0.4352,0.42,ci,ci14512436,2020-07-07T22:04:35.058Z,"7km WNW of Delta, B.C., MX",earthquake,1.89,31.61,,5,reviewed,ci,ci
 2008-12-06T04:18:42.850Z,34.8133333,-116.4188333,6.37,5.06,mw,48,65,0.07081,0.19,ci,ci14408052,2020-05-02T01:59:43.034Z,"26km WNW of Ludlow, CA",earthquake,0.21,0.78,,6,reviewed,ci,ci
 2008-07-29T18:42:15.670Z,33.9485,-117.7663333,15.503,5.44,mw,136,17,0.08724,0.3,ci,ci14383980,2021-02-12T08:02:07.647Z,"5km S of Chino Hills, CA",earthquake,0.19,0.52,,6,reviewed,ci,ci
-2008-04-30T03:03:06.900Z,40.8358333,-123.4968333,27.755,5.4,mw,33,36,0.1829,0.14,nc,nc40216664,2020-06-27T07:10:04.169Z,"Northern California",earthquake,0.3,1.15,,8,reviewed,nc,nc
+2008-04-30T03:03:06.900Z,40.8358333,-123.4968333,27.755,5.4,mw,33,36,0.1829,0.14,nc,nc40216664,2020-06-27T07:10:04.169Z,Northern California,earthquake,0.3,1.15,,8,reviewed,nc,nc
 2008-04-26T06:40:10.453Z,39.5231,-119.9393,2.8,5.1,ml,35,39.56,0.008,0.122,nn,nn00385392,2018-07-24T21:38:00.689Z,"1km NW of Mogul, Nevada",earthquake,,0.5,0.13,2,reviewed,nn,nn
 2008-02-21T14:34:55.538Z,41.137,-114.8398,0,5.1,ml,7,138.75,0.322,0.3244,nn,nn00517570,2015-11-16T20:00:35.791Z,"10km ENE of Wells, Nevada",earthquake,2.95,,0.33,6,reviewed,nn,nn
 2008-02-21T14:16:02.821Z,41.1444,-114.8721,7.9,5.9,mw,18,95.21,0.318,0.1855,nn,nn00234425,2020-12-09T06:04:02.386Z,"8km ENE of Wells, Nevada",earthquake,,1.9,,,reviewed,nn,nn
@@ -69,56 +69,56 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2008-02-11T18:29:30.530Z,32.3271667,-115.2568333,6.001,5.1,mw,28,228,0.5031,1.04,ci,ci14348196,2020-06-27T06:48:40.782Z,"7km WSW of Delta, B.C., MX",earthquake,4.91,31.61,,6,reviewed,ci,ci
 2008-02-09T07:12:04.550Z,32.3595,-115.2773333,6.001,5.1,mw,31,222,0.467,1.4,ci,ci14346868,2021-03-03T18:14:51.965Z,"8km W of Delta, B.C., MX",earthquake,5.62,31.61,,6,reviewed,ci,ci
 2007-10-31T03:04:54.810Z,37.4335,-121.7743333,9.741,5.45,mw,156,50,0.02703,0.11,nc,nc40204628,2021-02-17T05:43:14.691Z,"San Francisco Bay area, California",earthquake,0.11,0.28,,6,reviewed,nc,nc
-2007-06-25T02:32:24.620Z,41.1155,-124.8245,2.563,5,mw,213,213,0.6063,0.28,nc,nc51183469,2020-05-21T01:24:59.180Z,"offshore Northern California",earthquake,0.54,2.63,,5,reviewed,nc,nc
-2007-05-09T07:50:03.830Z,40.3745,-125.0161667,-0.423,5.2,mw,57,239,0.527,0.14,nc,nc51181705,2020-06-27T06:37:55.529Z,"offshore Northern California",earthquake,0.83,2.98,,4,reviewed,nc,nc
+2007-06-25T02:32:24.620Z,41.1155,-124.8245,2.563,5,mw,213,213,0.6063,0.28,nc,nc51183469,2020-05-21T01:24:59.180Z,offshore Northern California,earthquake,0.54,2.63,,5,reviewed,nc,nc
+2007-05-09T07:50:03.830Z,40.3745,-125.0161667,-0.423,5.2,mw,57,239,0.527,0.14,nc,nc51181705,2020-06-27T06:37:55.529Z,offshore Northern California,earthquake,0.83,2.98,,4,reviewed,nc,nc
 2007-02-26T12:21:02.140Z,40.642,-124.87,4.957,5.4,mh,21,329,,69.32,ci,ci10233309,2016-03-09T08:10:39.568Z,"52km W of Ferndale, CA",earthquake,99,31.61,,0,reviewed,ci,ci
-2007-02-26T12:19:54.530Z,40.6428333,-124.8628333,-0.533,5.4,mw,94,244,0.4333,0.19,nc,nc40193932,2020-06-27T06:20:58.789Z,"offshore Northern California",earthquake,0.7,1.64,,13,reviewed,nc,nc
-2006-07-19T11:41:43.460Z,40.2806667,-124.4331667,20.064,5,mw,39,223,0.2081,0.09,nc,nc21527987,2020-05-06T09:05:26.783Z,"offshore Northern California",earthquake,0.61,0.45,,6,reviewed,nc,nc
+2007-02-26T12:19:54.530Z,40.6428333,-124.8628333,-0.533,5.4,mw,94,244,0.4333,0.19,nc,nc40193932,2020-06-27T06:20:58.789Z,offshore Northern California,earthquake,0.7,1.64,,13,reviewed,nc,nc
+2006-07-19T11:41:43.460Z,40.2806667,-124.4331667,20.064,5,mw,39,223,0.2081,0.09,nc,nc21527987,2020-05-06T09:05:26.783Z,offshore Northern California,earthquake,0.61,0.45,,6,reviewed,nc,nc
 2006-05-24T04:20:26.010Z,32.3066667,-115.2278333,6.006,5.37,mw,21,263,0.4775,0.36,ci,ci12245763,2020-05-21T00:49:53.104Z,"6km SSW of Delta, B.C., MX",earthquake,1.86,31.61,0.221,0,reviewed,ci,ci
 2005-09-02T01:27:19.590Z,33.1533333,-115.6463333,1.207,5.08,mw,39,52,0.03525,0.33,ci,ci14179736,2021-02-18T19:24:46.862Z,"13km WNW of Calipatria, CA",earthquake,0.33,0.86,,6,reviewed,ci,ci
-2005-06-15T02:50:54.190Z,41.292,-125.953,16,7.2,mwc,420,31.4,,1.2,us,usp000dt25,2020-07-08T01:54:09.525Z,"off the coast of Northern California",earthquake,,,,,reviewed,us,hrv
+2005-06-15T02:50:54.190Z,41.292,-125.953,16,7.2,mwc,420,31.4,,1.2,us,usp000dt25,2020-07-08T01:54:09.525Z,off the coast of Northern California,earthquake,,,,,reviewed,us,hrv
 2005-06-12T15:41:46.520Z,33.5325,-116.5666667,13.051,5.2,mw,96,19,0.04319,0.21,ci,ci14151344,2020-05-02T01:28:17.103Z,"10km ESE of Anza, CA",earthquake,0.17,0.26,,0,reviewed,ci,ci
 2004-09-29T22:54:54.240Z,35.3898333,-118.6235,2.788,5.03,mw,71,18,,0.25,ci,ci14095628,2020-05-02T01:25:07.662Z,"25km SSW of Bodfish, California",earthquake,0.27,0.72,,6,reviewed,ci,ci
-2004-09-29T17:10:04.030Z,35.9536667,-120.5021667,10.772,5,mw,66,33,0.003604,0.07,nc,nc21401069,2020-05-06T06:59:12.438Z,"Central California",earthquake,0.15,0.21,,6,reviewed,nc,nc
+2004-09-29T17:10:04.030Z,35.9536667,-120.5021667,10.772,5,mw,66,33,0.003604,0.07,nc,nc21401069,2020-05-06T06:59:12.438Z,Central California,earthquake,0.15,0.21,,6,reviewed,nc,nc
 2004-09-28T17:15:24.250Z,35.8181667,-120.366,8.136,5.97,mw,61,26,0.01622,0.04,nc,nc30228270,2020-07-07T22:35:46.389Z,"18km N of Shandon, California",earthquake,0.14,0.25,,4,reviewed,nc,nc
 2004-09-18T23:43:41.490Z,38.0233333,-118.658,0.431,5.35,mw,48,76,0.07117,0.07,nc,nc30500748,2018-04-24T21:16:56.131Z,"49km NE of Mammoth Lakes, California",earthquake,0.21,2.84,,6,reviewed,nc,nc
 2004-09-18T23:02:17.750Z,38.0095,-118.6785,3.355,5.4,mw,52,55,0.05045,0.08,nc,nc21396205,2020-05-06T06:56:54.725Z,"47km NNE of Mammoth Lakes, California",earthquake,0.2,0.6,,9,reviewed,nc,nc
-2003-12-22T19:15:56.240Z,35.7005,-121.1005,8.382,6.5,mw,65,71,0.04685,0.07,nc,nc21323712,2020-08-14T17:23:56.082Z,"Central California",earthquake,0.16,0.6,,4,reviewed,nc,nc
-2003-08-15T09:22:15.650Z,40.9786667,-125.3573333,8.142,5,mw,84,251,0.9252,0.19,nc,nc21299771,2020-02-12T17:07:54.501Z,"offshore Northern California",earthquake,1.63,18.03,,12,reviewed,nc,nc
-2002-06-17T16:55:07.680Z,40.8098333,-124.552,17.195,5.2,mw,74,225,0.3721,0.16,nc,nc21231051,2020-02-12T17:38:08.993Z,"offshore Northern California",earthquake,0.62,0.97,,3,reviewed,nc,nc
+2003-12-22T19:15:56.240Z,35.7005,-121.1005,8.382,6.5,mw,65,71,0.04685,0.07,nc,nc21323712,2020-08-14T17:23:56.082Z,Central California,earthquake,0.16,0.6,,4,reviewed,nc,nc
+2003-08-15T09:22:15.650Z,40.9786667,-125.3573333,8.142,5,mw,84,251,0.9252,0.19,nc,nc21299771,2020-02-12T17:07:54.501Z,offshore Northern California,earthquake,1.63,18.03,,12,reviewed,nc,nc
+2002-06-17T16:55:07.680Z,40.8098333,-124.552,17.195,5.2,mw,74,225,0.3721,0.16,nc,nc21231051,2020-02-12T17:38:08.993Z,offshore Northern California,earthquake,0.62,0.97,,3,reviewed,nc,nc
 2002-02-22T19:32:41.750Z,32.3188333,-115.3215,7.007,5.7,mw,20,217.5,0.4751,0.38,ci,ci12456384,2020-07-09T21:11:59.999Z,"13km WSW of Delta, B.C., MX",earthquake,2.44,31.95,,0,reviewed,ci,ci
 2001-12-08T23:36:10.110Z,31.9976667,-115.0016667,6.981,5.7,mw,12,261.5,0.6721,0.3,ci,ci9732601,2020-07-07T22:17:46.708Z,"22km S of Estacion Coahuila, B.C., MX",earthquake,4.65,28,,6,reviewed,ci,ci
 2001-10-31T07:56:16.630Z,33.5083333,-116.5143333,13.678,5.02,mw,78,18.2,0.07467,0.26,ci,ci9718013,2020-02-12T17:51:08.600Z,"16km ESE of Anza, CA",earthquake,0.26,0.34,,6,reviewed,ci,ci
-2001-08-10T20:19:27.060Z,39.8111667,-120.6166667,5.011,5.2,mw,92,111,0.1459,0.34,nc,nc21188442,2020-02-12T17:57:31.982Z,"Northern California",earthquake,0.42,0.92,,5,reviewed,nc,nc
+2001-08-10T20:19:27.060Z,39.8111667,-120.6166667,5.011,5.2,mw,92,111,0.1459,0.34,nc,nc21188442,2020-02-12T17:57:31.982Z,Northern California,earthquake,0.42,0.92,,5,reviewed,nc,nc
 2001-07-17T12:07:26.100Z,36.0163333,-117.8743333,1.864,5.17,mw,39,37,,0.18,ci,ci9674049,2020-02-12T17:59:17.025Z,"7km ESE of Coso Junction, CA",earthquake,0.35,0.48,,6,reviewed,ci,ci
-2001-01-13T13:08:42.100Z,40.7556667,-125.2445,2.243,5.4,mw,162,233,0.7459,0.26,nc,nc21143281,2020-02-12T18:11:31.788Z,"offshore Northern California",earthquake,1.07,22.57,,6,reviewed,nc,nc
-2000-03-16T15:19:56.380Z,40.3886667,-125.2385,4.803,5.7,mw,158,228,0.6946,0.29,nc,nc21086915,2017-03-17T16:04:43.394Z,"offshore Northern California",earthquake,1.5,2.3,,4,reviewed,nc,nc
+2001-01-13T13:08:42.100Z,40.7556667,-125.2445,2.243,5.4,mw,162,233,0.7459,0.26,nc,nc21143281,2020-02-12T18:11:31.788Z,offshore Northern California,earthquake,1.07,22.57,,6,reviewed,nc,nc
+2000-03-16T15:19:56.380Z,40.3886667,-125.2385,4.803,5.7,mw,158,228,0.6946,0.29,nc,nc21086915,2017-03-17T16:04:43.394Z,offshore Northern California,earthquake,1.5,2.3,,4,reviewed,nc,nc
 1999-10-16T12:57:21.060Z,34.4415,-116.2525,0.838,5.37,mw,33,64,,0.13,ci,ci3320736,2020-04-16T18:16:46.145Z,"32km SSW of Ludlow, California",earthquake,0.36,0.96,,6,reviewed,ci,ci
 1999-10-16T09:59:38.000Z,34.24,-117.04,6,5.6,mb,,,,,ci,ci10180015,2020-07-09T21:09:47.651Z,"7km ENE of Running Springs, CA",earthquake,,,,0,reviewed,ci,ci
 1999-10-16T09:59:35.390Z,34.6781667,-116.2895,13.906,5.77,ml,60,76,,0.35,ci,ci3320848,2020-07-09T21:30:41.719Z,"13km WSW of Ludlow, CA",earthquake,0.56,1.72,,270,reviewed,ci,ci
 1999-10-16T09:46:44.460Z,34.6033333,-116.265,13.73,7.1,mw,73,57,,0.31,ci,ci9108652,2020-08-21T18:33:58.123Z,"Hector Mine, CA Earthquake",earthquake,0.35,31.61,,0,reviewed,ci,ci
 1999-08-01T16:11:22.030Z,37.421,-117.004,4.208,5.05,ml,0,257.3,,0.419,ci,ci3319188,2016-02-15T23:29:39.080Z,"61km NNW of Beatty, Nevada",earthquake,,,,90,reviewed,ci,ci
 1999-08-01T16:06:20.870Z,37.53,-116.968,6.037,5.94,ml,0,246.6,,0.446,ci,ci9098566,2016-11-09T23:07:38.088Z,"64km SSE of Tonopah, Nevada",earthquake,,,,150,reviewed,ci,ci
-1999-05-15T13:22:10.660Z,37.5296667,-118.8171667,2.934,5.5,mw,31,112,0.05495,0.04,nc,nc21014765,2020-07-10T14:20:22.765Z,"Central California",earthquake,0.25,0.51,,6,reviewed,nc,nc
-1998-11-27T00:43:49.060Z,40.6736667,-125.2921667,4.492,5.4,mw,164,254,0.755,0.26,nc,nc30207272,2016-12-29T12:42:31.700Z,"offshore Northern California",earthquake,1.71,3.5,,3,reviewed,nc,nc
+1999-05-15T13:22:10.660Z,37.5296667,-118.8171667,2.934,5.5,mw,31,112,0.05495,0.04,nc,nc21014765,2020-07-10T14:20:22.765Z,Central California,earthquake,0.25,0.51,,6,reviewed,nc,nc
+1998-11-27T00:43:49.060Z,40.6736667,-125.2921667,4.492,5.4,mw,164,254,0.755,0.26,nc,nc30207272,2016-12-29T12:42:31.700Z,offshore Northern California,earthquake,1.71,3.5,,3,reviewed,nc,nc
 1998-11-26T19:49:53.600Z,40.6261667,-122.414,24.59,5.1,mw,23,47,0.08939,0.08,nc,nc30207228,2019-02-22T01:38:01.530Z,"7km NW of Redding, CA",earthquake,0.24,0.5,,3,reviewed,nc,nc
-1998-08-12T14:10:25.140Z,36.7545,-121.4615,8.822,5.1,mw,83,35,0.03784,0.19,nc,nc30190473,2020-07-07T22:35:32.781Z,"Central California",earthquake,0.24,0.54,,5,reviewed,nc,nc
+1998-08-12T14:10:25.140Z,36.7545,-121.4615,8.822,5.1,mw,83,35,0.03784,0.19,nc,nc30190473,2020-07-07T22:35:32.781Z,Central California,earthquake,0.24,0.54,,5,reviewed,nc,nc
 1998-03-07T00:36:46.840Z,36.076,-117.618,0.234,5.04,ml,0,83.8,,0.193,ci,ci9045109,2016-02-12T06:51:35.717Z,"30km E of Coso Junction, California",earthquake,,0.222,,100,reviewed,ci,ci
 1998-03-06T05:47:40.340Z,36.067,-117.638,0.334,5.23,ml,0,87,,0.176,ci,ci9044494,2016-11-09T22:01:33.992Z,"28km E of Coso Junction, California",earthquake,,0.219,,100,reviewed,ci,ci
-1997-10-26T10:44:06.410Z,41.0663333,-125.3235,4.602,5.2,mw,203,232,0.955,0.26,nc,nc528810,2016-12-26T16:47:57.020Z,"offshore Northern California",earthquake,1.27,5.27,,4,reviewed,nc,nc
-1997-10-04T10:57:34.180Z,41.0528333,-125.3433333,6.792,5.5,mw,144,245,0.9586,0.15,nc,nc524039,2016-12-26T13:05:07.710Z,"offshore Northern California",earthquake,0.93,14.89,,4,reviewed,nc,nc
+1997-10-26T10:44:06.410Z,41.0663333,-125.3235,4.602,5.2,mw,203,232,0.955,0.26,nc,nc528810,2016-12-26T16:47:57.020Z,offshore Northern California,earthquake,1.27,5.27,,4,reviewed,nc,nc
+1997-10-04T10:57:34.180Z,41.0528333,-125.3433333,6.792,5.5,mw,144,245,0.9586,0.15,nc,nc524039,2016-12-26T13:05:07.710Z,offshore Northern California,earthquake,0.93,14.89,,4,reviewed,nc,nc
 1997-04-26T10:37:30.670Z,34.369,-118.67,15.892,5.07,ml,0,19.1,,0.269,ci,ci9008753,2016-02-12T19:17:44.098Z,"12km ESE of Piru, California",earthquake,,0.147,,100,reviewed,ci,ci
 1997-03-18T15:24:47.720Z,34.971,-116.819,0.621,5.26,ml,0,37.9,,0.268,ci,ci7062511,2016-02-12T06:30:18.018Z,"20km ENE of Barstow, California",earthquake,,0.725,,80,reviewed,ci,ci
-1997-01-26T06:23:19.440Z,40.2813333,-124.3965,21.566,5.2,mw,22,230,0.07568,0.11,nc,nc492691,2016-12-25T18:26:18.990Z,"offshore Northern California",earthquake,1.25,0.4,,3,reviewed,nc,nc
-1997-01-22T07:17:16.810Z,40.2736667,-124.3791667,23.007,5.6,mw,27,217,0.06036,0.08,nc,nc492079,2020-07-10T14:23:28.071Z,"offshore Northern California",earthquake,0.94,0.49,,3,reviewed,nc,nc
+1997-01-26T06:23:19.440Z,40.2813333,-124.3965,21.566,5.2,mw,22,230,0.07568,0.11,nc,nc492691,2016-12-25T18:26:18.990Z,offshore Northern California,earthquake,1.25,0.4,,3,reviewed,nc,nc
+1997-01-22T07:17:16.810Z,40.2736667,-124.3791667,23.007,5.6,mw,27,217,0.06036,0.08,nc,nc492079,2020-07-10T14:23:28.071Z,offshore Northern California,earthquake,0.94,0.49,,3,reviewed,nc,nc
 1996-11-27T20:17:24.110Z,36.075,-117.65,-0.02,5.3,mw,0,167.7,,0.198,ci,ci7050470,2016-11-10T00:04:31.311Z,"27km E of Coso Junction, California",earthquake,,0.272,,0,reviewed,ci,ci
 1996-01-07T14:32:53.020Z,35.761,-117.646,3.236,5.17,ml,0,87.9,,0.184,ci,ci3248846,2016-02-12T18:42:25.298Z,"16km N of Ridgecrest, California",earthquake,,0.132,,78,reviewed,ci,ci
 1995-09-20T23:27:36.270Z,35.761,-117.638,4.688,5.75,ml,0,88.2,,0.195,ci,ci3231786,2020-07-09T21:21:51.523Z,"16km NNE of Ridgecrest, California",earthquake,,0.469,,37,reviewed,ci,ci
 1995-08-17T22:39:58.100Z,35.776,-117.662,4.784,5.36,ml,0,66.5,,0.166,ci,ci3225143,2016-11-09T23:16:18.139Z,"17km N of Ridgecrest, California",earthquake,,1.116,,68,reviewed,ci,ci
 1995-06-26T08:40:28.940Z,34.394,-118.669,12.76,5.02,ml,0,17.7,,0.285,ci,ci3217586,2016-02-13T04:24:33.495Z,"11km SW of Valencia, California",earthquake,,0.107,,59,reviewed,ci,ci
-1995-02-19T04:03:14.940Z,40.5918333,-125.7566667,4.622,6.6,mw,180,273,1.089,0.27,nc,nc30068187,2020-07-10T14:22:00.769Z,"off the coast of Northern California",earthquake,2.58,6.05,,3,reviewed,nc,nc
-1994-12-26T14:10:29.180Z,40.7383333,-124.3028333,22.622,5.4,mw,33,194,0.264,0.07,nc,nc30065114,2020-07-10T14:21:47.539Z,"offshore Northern California",earthquake,0.38,0.73,,3,reviewed,nc,nc
-1994-09-12T23:57:09.750Z,38.7763333,-119.705,-0.942,5.1,mw,332,164,0.7685,0.46,nc,nc30057222,2016-12-22T13:43:57.360Z,"Northern California",earthquake,0.44,0.65,,6,reviewed,nc,nc
+1995-02-19T04:03:14.940Z,40.5918333,-125.7566667,4.622,6.6,mw,180,273,1.089,0.27,nc,nc30068187,2020-07-10T14:22:00.769Z,off the coast of Northern California,earthquake,2.58,6.05,,3,reviewed,nc,nc
+1994-12-26T14:10:29.180Z,40.7383333,-124.3028333,22.622,5.4,mw,33,194,0.264,0.07,nc,nc30065114,2020-07-10T14:21:47.539Z,offshore Northern California,earthquake,0.38,0.73,,3,reviewed,nc,nc
+1994-09-12T23:57:09.750Z,38.7763333,-119.705,-0.942,5.1,mw,332,164,0.7685,0.46,nc,nc30057222,2016-12-22T13:43:57.360Z,Northern California,earthquake,0.44,0.65,,6,reviewed,nc,nc
 1994-09-12T12:23:43.200Z,38.819,-119.652,11.629,5.7,ms,0,0,,0,ci,ci3184133,2020-07-07T22:10:14.007Z,"11km SE of Gardnerville Ranchos, Nevada",earthquake,,,,0,reviewed,ci,ci
 1994-03-23T02:59:14.460Z,31.736,-116.195,5.094,5.27,ml,76,254,,0.68,ci,ci3159960,2016-04-02T02:13:12.511Z,"35km E of Maneadero, B.C., MX",earthquake,69.82,31.61,,21,reviewed,ci,ci
 1994-03-20T21:20:12.260Z,34.231,-118.475,12.442,5.24,ml,0,27,,0.332,ci,ci3159411,2016-11-09T22:07:22.255Z,"3km WNW of Panorama City, California",earthquake,,0.134,,40,reviewed,ci,ci
@@ -130,7 +130,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 1994-01-17T12:40:36.120Z,34.34,-118.614,5.395,5.2,ml,0,179.8,0.2682,0.373,ci,ci3144694,2016-02-11T18:26:34.251Z,"9km N of Chatsworth, California",earthquake,,,,21,reviewed,ci,ci
 1994-01-17T12:31:58.120Z,34.275,-118.493,5.317,5.89,ml,0,142.2,0.2557,0.494,ci,ci3149646,2020-07-09T21:21:19.090Z,"1km ENE of Granada Hills, California",earthquake,,,,4,reviewed,ci,ci
 1994-01-17T12:30:55.390Z,34.213,-118.537,18.202,6.7,mw,0,29.7,,0.31,ci,ci3144585,2021-02-18T19:18:10.350Z,"1km NNW of Reseda, CA",earthquake,,0.403,,0,reviewed,ci,ci
-1993-12-04T22:15:19.720Z,42.2915,-122.0086667,4.797,5.1,md,126,113,,0.11,uw,uw10316468,2020-09-21T18:41:10.842Z,"Oregon",earthquake,0.468,0.56,0.04,7,reviewed,uw,uw
+1993-12-04T22:15:19.720Z,42.2915,-122.0086667,4.797,5.1,md,126,113,,0.11,uw,uw10316468,2020-09-21T18:41:10.842Z,Oregon,earthquake,0.468,0.56,0.04,7,reviewed,uw,uw
 1993-08-21T01:46:38.400Z,34.029,-116.321,8.245,5,ml,0,43.1,,0.23,ci,ci3118441,2016-02-10T02:50:36.885Z,"12km S of Joshua Tree, California",earthquake,,0.49,,52,reviewed,ci,ci
 1993-05-28T04:47:40.600Z,35.149,-119.104,20.612,5.19,ml,0,36.9,,0.288,ci,ci3107503,2020-07-09T21:20:43.944Z,"21km SW of Lamont, California",earthquake,,0.34,,51,reviewed,ci,ci
 1993-05-17T23:20:50.250Z,37.165,-117.774,3.599,6.1,mw,0,170.4,,0.344,ci,ci3105173,2021-01-04T22:39:38.507Z,"46km E of Big Pine, California",earthquake,,,,0,reviewed,ci,ci
@@ -154,32 +154,32 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 1992-06-28T12:01:16.190Z,34.12,-116.323,5.706,5.7,ml,0,251.6,,0.224,ci,ci3043630,2020-07-09T21:19:16.170Z,"2km SSW of Joshua Tree, California",earthquake,,,,9,reviewed,ci,ci
 1992-06-28T12:00:45.000Z,34.131,-116.408,-1.1,5.77,ml,0,158.7,,0.194,ci,ci3043549,2020-07-09T21:19:03.350Z,"3km NE of Yucca Valley, California",earthquake,,2.73,,11,reviewed,ci,ci
 1992-06-28T11:57:34.130Z,34.2,-116.437,-0.097,7.3,mw,0,43.4,,0.194,ci,ci3031111,2021-03-20T23:47:00.956Z,"Landers, California Earthquake",earthquake,,0.31,,0,reviewed,ci,ci
-1992-04-26T11:18:25.980Z,40.3828333,-124.555,21.713,6.57,mw,25,247,0.1901,0.07,nc,nc268078,2020-07-07T22:34:30.081Z,"offshore Northern California",earthquake,1.09,0.35,,1,reviewed,nc,nc
-1992-04-26T07:41:40.090Z,40.4325,-124.566,18.824,6.45,mw,34,248,0.1802,0.12,nc,nc268031,2020-07-07T22:34:12.881Z,"offshore Northern California",earthquake,1.31,0.34,,1,reviewed,nc,nc
+1992-04-26T11:18:25.980Z,40.3828333,-124.555,21.713,6.57,mw,25,247,0.1901,0.07,nc,nc268078,2020-07-07T22:34:30.081Z,offshore Northern California,earthquake,1.09,0.35,,1,reviewed,nc,nc
+1992-04-26T07:41:40.090Z,40.4325,-124.566,18.824,6.45,mw,34,248,0.1802,0.12,nc,nc268031,2020-07-07T22:34:12.881Z,offshore Northern California,earthquake,1.31,0.34,,1,reviewed,nc,nc
 1992-04-25T18:06:05.180Z,40.3353333,-124.2286667,9.856,7.2,mh,9,115,0.1072,0.07,nc,nc269151,2021-04-26T19:23:47.559Z,"20km SSW of Rio Dell, California",earthquake,0.33,0.64,,0,reviewed,nc,nc
 1992-04-23T04:50:23.230Z,33.96,-116.317,11.629,6.1,mw,0,63.1,,0.256,ci,ci3019681,2021-01-07T23:39:01.254Z,"17km NNE of Thousand Palms, California",earthquake,,0.216,,0,reviewed,ci,ci
 1992-03-26T16:30:00.580Z,37.2723333,-116.3598333,0.01,5.12,ml,126,238,,0.41,ci,ci2045731,2016-04-02T08:38:56.423Z,"53km NE of Beatty, NV",nuclear explosion,99,31.61,0.083,9,reviewed,ci,ci
-1992-03-08T03:43:04.050Z,40.2326667,-124.2625,9.48,5.32,md,19,202,0.08108,0.06,nc,nc255182,2020-07-10T14:21:07.121Z,"Northern California",earthquake,0.6,0.61,0.38,328,reviewed,nc,nc
+1992-03-08T03:43:04.050Z,40.2326667,-124.2625,9.48,5.32,md,19,202,0.08108,0.06,nc,nc255182,2020-07-10T14:21:07.121Z,Northern California,earthquake,0.6,0.61,0.38,328,reviewed,nc,nc
 1991-12-03T17:54:36.380Z,31.759,-115.822,5.842,5.32,ml,60,246,,0.49,ci,ci2035965,2017-02-06T23:17:20.142Z,"71km E of Maneadero, B.C., MX",earthquake,88.54,31.61,0.148,5,reviewed,ci,ci
-1991-09-17T21:10:29.020Z,35.8103333,-121.3348333,9.184,5.2,ml,61,167,0.04054,0.09,nc,nc231726,2020-07-10T14:20:55.015Z,"Central California",earthquake,0.22,0.4,,0,reviewed,nc,nc
+1991-09-17T21:10:29.020Z,35.8103333,-121.3348333,9.184,5.2,ml,61,167,0.04054,0.09,nc,nc231726,2020-07-10T14:20:55.015Z,Central California,earthquake,0.22,0.4,,0,reviewed,nc,nc
 1991-08-17T22:17:09.970Z,41.679,-125.856,1.303,7,mh,90,295,1.473,0.09,nc,nc228064,2020-07-10T14:20:35.145Z,"136km WSW of Brookings, Oregon",earthquake,1.73,11.06,,0,reviewed,nc,nc
-1991-08-17T19:29:40.000Z,40.2516667,-124.2858333,8.32,6,ml,32,196,0.1063,0.09,nc,nc228027,2021-01-07T22:06:00.870Z,"Northern California",earthquake,0.36,0.41,,0,reviewed,nc,nc
-1991-08-16T22:26:14.250Z,41.6611667,-125.8455,2.549,6.1,ml,119,296,1.461,0.12,nc,nc227958,2016-12-18T14:38:55.079Z,"off the coast of Northern California",earthquake,2.18,12.76,,0,reviewed,nc,nc
-1991-07-13T02:50:14.690Z,42.182,-125.641,11,6.9,mw,,,,1,us,usp0004u34,2020-08-29T00:53:37.170Z,"off the coast of Oregon",earthquake,,,,,reviewed,us,par
+1991-08-17T19:29:40.000Z,40.2516667,-124.2858333,8.32,6,ml,32,196,0.1063,0.09,nc,nc228027,2021-01-07T22:06:00.870Z,Northern California,earthquake,0.36,0.41,,0,reviewed,nc,nc
+1991-08-16T22:26:14.250Z,41.6611667,-125.8455,2.549,6.1,ml,119,296,1.461,0.12,nc,nc227958,2016-12-18T14:38:55.079Z,off the coast of Northern California,earthquake,2.18,12.76,,0,reviewed,nc,nc
+1991-07-13T02:50:14.690Z,42.182,-125.641,11,6.9,mw,,,,1,us,usp0004u34,2020-08-29T00:53:37.170Z,off the coast of Oregon,earthquake,,,,,reviewed,us,par
 1991-06-28T14:43:54.660Z,34.27,-117.993,8.049,5.8,mw,0,14.3,,0.264,ci,ci2021449,2020-07-07T22:08:03.408Z,"13km NNE of Sierra Madre, CA",earthquake,,0.304,,0,reviewed,ci,ci
 1991-04-16T15:30:00.690Z,37.2453333,-116.4416667,0.01,5.06,ml,122,237,,0.4,ci,ci2016705,2016-04-02T12:05:23.214Z,"46km NE of Beatty, NV",nuclear explosion,99,31.61,0.123,8,reviewed,ci,ci
 1991-04-04T19:00:00.780Z,37.2961667,-116.3128333,0.01,5.13,ml,69,271,,0.24,ci,ci2015859,2016-04-01T23:08:58.232Z,"58km NE of Beatty, NV",nuclear explosion,99,31.61,0.089,6,reviewed,ci,ci
 1990-11-14T19:17:00.670Z,37.2273333,-116.3711667,0.01,5.02,ml,107,239,,0.39,ci,ci2007484,2016-04-01T23:15:52.136Z,"49km NE of Beatty, NV",nuclear explosion,99,31.61,0.223,14,reviewed,ci,ci
-1990-10-24T06:15:19.950Z,38.0618333,-119.1191667,10.903,5.8,ml,124,173,0.3577,0.13,nc,nc20092556,2020-07-10T14:20:09.880Z,"Central California",earthquake,0.23,0.32,,0,reviewed,nc,nc
+1990-10-24T06:15:19.950Z,38.0618333,-119.1191667,10.903,5.8,ml,124,173,0.3577,0.13,nc,nc20092556,2020-07-10T14:20:09.880Z,Central California,earthquake,0.23,0.32,,0,reviewed,nc,nc
 1990-06-13T16:00:00.700Z,37.2616667,-116.4201667,0.01,5.08,ml,160,237,,0.43,ci,ci2000285,2016-04-02T02:32:53.068Z,"49km NE of Beatty, NV",nuclear explosion,99,31.61,0.201,8,reviewed,ci,ci
-1990-04-18T15:46:03.450Z,36.9588333,-121.6845,6.641,5.1,ml,87,28,0.00991,0.09,nc,nc20091155,2016-12-17T05:06:53.470Z,"Northern California",earthquake,0.14,0.28,,0,reviewed,nc,nc
-1990-04-18T13:53:51.300Z,36.9323333,-121.6568333,5.488,5.4,ml,100,36,0.004505,0.11,nc,nc20091154,2016-12-17T05:03:49.270Z,"Northern California",earthquake,0.16,0.29,,0,reviewed,nc,nc
+1990-04-18T15:46:03.450Z,36.9588333,-121.6845,6.641,5.1,ml,87,28,0.00991,0.09,nc,nc20091155,2016-12-17T05:06:53.470Z,Northern California,earthquake,0.14,0.28,,0,reviewed,nc,nc
+1990-04-18T13:53:51.300Z,36.9323333,-121.6568333,5.488,5.4,ml,100,36,0.004505,0.11,nc,nc20091154,2016-12-17T05:03:49.270Z,Northern California,earthquake,0.16,0.29,,0,reviewed,nc,nc
 1990-02-28T23:43:36.750Z,34.144,-117.697,3.292,5.51,ml,0,30.9,,0.27,ci,ci1053635,2020-07-07T22:02:22.752Z,"6km NNE of Claremont, CA",earthquake,,0.155,,14,reviewed,ci,ci
-1990-01-16T20:08:20.460Z,40.2425,-124.2975,3.759,5.4,ml,147,247,0.6297,0.2,nc,nc10090568,2020-04-16T19:25:02.411Z,"Northern California",earthquake,0.98,3.15,,0,reviewed,nc,nc
+1990-01-16T20:08:20.460Z,40.2425,-124.2975,3.759,5.4,ml,147,247,0.6297,0.2,nc,nc10090568,2020-04-16T19:25:02.411Z,Northern California,earthquake,0.98,3.15,,0,reviewed,nc,nc
 1989-10-31T15:30:00.820Z,37.2631667,-116.4906667,0.01,5.08,ml,126,236,,0.4,ci,ci1044963,2016-04-02T18:30:19.105Z,"46km NNE of Beatty, NV",nuclear explosion,99,31.61,0.169,10,reviewed,ci,ci
-1989-10-18T00:41:23.770Z,37.1901667,-122.052,15.306,5.1,ml,50,57,0.03063,0.09,nc,nc10090725,2018-06-04T20:43:45.000Z,"Northern California",earthquake,0.16,0.53,,4,reviewed,nc,nc
+1989-10-18T00:41:23.770Z,37.1901667,-122.052,15.306,5.1,ml,50,57,0.03063,0.09,nc,nc10090725,2018-06-04T20:43:45.000Z,Northern California,earthquake,0.16,0.53,,4,reviewed,nc,nc
 1989-10-18T00:04:15.190Z,37.0361667,-121.8798333,17.214,6.9,mh,84,89,0.008108,0.08,nc,nc216859,2021-05-19T04:36:40.847Z,"Loma Prieta, California Earthquake",earthquake,0.21,0.31,,0,reviewed,nc,nc
-1989-08-08T08:13:27.390Z,37.1481667,-121.9268333,13.409,5.4,ml,92,51,0.02162,0.09,nc,nc10089897,2020-07-10T14:12:16.838Z,"Northern California",earthquake,0.16,0.34,,6,reviewed,nc,nc
+1989-08-08T08:13:27.390Z,37.1481667,-121.9268333,13.409,5.4,ml,92,51,0.02162,0.09,nc,nc10089897,2020-07-10T14:12:16.838Z,Northern California,earthquake,0.16,0.34,,6,reviewed,nc,nc
 1989-06-22T21:15:00.700Z,37.2828333,-116.4123333,0.01,5.03,ml,99,239,,0.36,ci,ci1032978,2016-04-02T08:57:09.106Z,"51km NE of Beatty, NV",nuclear explosion,99,31.61,0.158,11,reviewed,ci,ci
 1988-12-16T05:53:04.100Z,33.979,-116.681,6.894,5.03,ml,0,24.5,,0.109,ci,ci651401,2018-06-04T20:43:45.000Z,"12km SW of Morongo Valley, CA",earthquake,,0.02,,13,reviewed,ci,ci
 1988-12-03T11:38:26.450Z,34.151,-118.13,13.719,5.02,ml,0,21.2,,0.318,ci,ci650799,2020-07-09T21:46:02.503Z,"1km SSE of Pasadena, CA",earthquake,,0.091,,11,reviewed,ci,ci
@@ -187,11 +187,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 1988-08-31T16:45:17.220Z,31.822,-115.775,5.351,5.25,ml,0,103.1,,0.556,ci,ci645853,2016-02-04T02:20:58.970Z,"73km SW of Alberto Oviedo Mota, B.C., MX",earthquake,,,,12,reviewed,ci,ci
 1988-08-17T17:00:00.680Z,37.2971667,-116.3065,0.01,5.17,ml,120,240,,0.42,ci,ci1007657,2016-02-04T05:34:57.020Z,"59km NE of Beatty, NV",nuclear explosion,99,31.61,0.097,9,reviewed,ci,ci
 1988-07-07T15:05:30.520Z,37.2523333,-116.3766667,0.01,5.23,ml,135,237,,0.46,ci,ci642635,2016-04-02T02:33:56.621Z,"51km NE of Beatty, NV",nuclear explosion,99,31.61,0.139,10,reviewed,ci,ci
-1988-06-27T18:43:22.330Z,37.1283333,-121.895,12.634,5.3,ml,91,45,0.04775,0.09,nc,nc10139668,2018-06-04T20:43:45.000Z,"Northern California",earthquake,0.16,0.36,,4,reviewed,nc,nc
+1988-06-27T18:43:22.330Z,37.1283333,-121.895,12.634,5.3,ml,91,45,0.04775,0.09,nc,nc10139668,2018-06-04T20:43:45.000Z,Northern California,earthquake,0.16,0.36,,4,reviewed,nc,nc
 1988-06-13T01:45:36.530Z,37.3926667,-121.7415,9.087,5.3,ml,98,29,0.03604,0.06,nc,nc10087352,2018-06-04T20:43:45.000Z,"San Francisco Bay area, California",earthquake,0.11,0.37,,5,reviewed,nc,nc
 1988-06-10T23:06:43.050Z,34.943,-118.743,5.898,5.37,ml,0,31,,0.175,ci,ci640798,2020-07-09T21:45:47.414Z,"16km NE of Lebec, CA",earthquake,,0.052,,11,reviewed,ci,ci
 1988-06-02T13:00:00.670Z,37.2601667,-116.4411667,0.01,5.03,ml,136,237,,0.47,ci,ci136722,2016-04-02T05:47:28.739Z,"48km NE of Beatty, NV",nuclear explosion,99,31.61,0.165,12,reviewed,ci,ci
-1988-02-20T08:39:57.260Z,36.7958333,-121.3111667,9.181,5.1,ml,88,26,0.02342,0.07,nc,nc10086194,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.14,0.19,,8,reviewed,nc,nc
+1988-02-20T08:39:57.260Z,36.7958333,-121.3111667,9.181,5.1,ml,88,26,0.02342,0.07,nc,nc10086194,2018-06-04T20:43:45.000Z,Central California,earthquake,0.14,0.19,,8,reviewed,nc,nc
 1988-02-15T18:10:00.740Z,37.3143333,-116.4715,0.01,5.11,ml,95,238,,0.35,ci,ci743326,2016-04-02T08:57:01.001Z,"52km NNE of Beatty, NV",nuclear explosion,99,31.61,0.258,12,reviewed,ci,ci
 1988-01-25T13:17:51.170Z,31.7451667,-115.6963333,5.094,5.49,ml,19,271,0.9679,0.64,ci,ci741859,2016-04-01T20:01:43.681Z,"73km SW of Alberto Oviedo Mota, B.C., MX",earthquake,5.71,31.61,,8,reviewed,ci,ci
 1987-11-24T13:15:56.710Z,33.015,-115.852,11.181,6.6,mw,0,51.3,,0.388,ci,ci628016,2020-08-14T06:25:06.618Z,"22km W of Westmorland, CA",earthquake,,0.765,,0,reviewed,ci,ci
@@ -200,122 +200,122 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 1987-10-01T14:42:20.020Z,34.061,-118.079,14.6,5.9,mw,0,44.4,,0.178,ci,ci731691,2020-10-12T16:11:05.316Z,"2km SSW of Rosemead, CA",earthquake,,0.023,,0,reviewed,ci,ci
 1987-09-24T15:00:00.590Z,37.228,-116.3746667,0.01,5.27,ml,127,239,,0.41,ci,ci623966,2016-04-02T08:57:59.754Z,"49km NE of Beatty, NV",nuclear explosion,99,31.61,0.083,10,reviewed,ci,ci
 1987-08-13T13:59:59.270Z,37.061,-116.0453333,0.01,5.35,ml,81,231,,0.29,ci,ci620804,2016-04-01T23:18:10.413Z,"65km ENE of Beatty, NV",nuclear explosion,99,31.61,0.138,12,reviewed,ci,ci
-1987-07-31T23:56:57.830Z,40.4156667,-124.3826667,16.895,5.6,ml,20,243,0.06937,0.06,nc,nc10083966,2020-07-10T14:11:40.363Z,"Northern California",earthquake,0.84,0.21,,4,reviewed,nc,nc
+1987-07-31T23:56:57.830Z,40.4156667,-124.3826667,16.895,5.6,ml,20,243,0.06937,0.06,nc,nc10083966,2020-07-10T14:11:40.363Z,Northern California,earthquake,0.84,0.21,,4,reviewed,nc,nc
 1987-04-18T13:40:00.710Z,37.2478333,-116.5091667,0.01,5.08,ml,122,236,,0.43,ci,ci720842,2016-04-02T02:33:42.921Z,"44km NNE of Beatty, NV",nuclear explosion,99,31.61,0.207,12,reviewed,ci,ci
-1987-02-14T07:26:50.290Z,36.1723333,-120.3405,15.271,5.3,ml,52,51,0.07658,0.1,nc,nc10089611,2020-07-10T14:12:04.958Z,"Central California",earthquake,0.22,0.55,,1,reviewed,nc,nc
+1987-02-14T07:26:50.290Z,36.1723333,-120.3405,15.271,5.3,ml,52,51,0.07658,0.1,nc,nc10089611,2020-07-10T14:12:04.958Z,Central California,earthquake,0.22,0.55,,1,reviewed,nc,nc
 1987-02-07T03:45:14.850Z,32.388,-115.305,5.993,5.38,ml,0,110.6,,0.408,ci,ci716756,2020-07-07T22:15:59.571Z,"11km WNW of Delta, B.C., MX",earthquake,,,,12,reviewed,ci,ci
-1986-11-21T23:34:18.970Z,40.359,-124.3978333,15.305,5.1,ml,4,240,0.1252,0,nc,nc88509,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,2.26,0.93,,7,reviewed,nc,nc
-1986-11-21T23:33:01.700Z,40.3605,-124.4061667,15.295,5.1,ml,22,225,0.1261,0.08,nc,nc88508,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,0.77,0.31,,7,reviewed,nc,nc
+1986-11-21T23:34:18.970Z,40.359,-124.3978333,15.305,5.1,ml,4,240,0.1252,0,nc,nc88509,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,2.26,0.93,,7,reviewed,nc,nc
+1986-11-21T23:33:01.700Z,40.3605,-124.4061667,15.295,5.1,ml,22,225,0.1261,0.08,nc,nc88508,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,0.77,0.31,,7,reviewed,nc,nc
 1986-11-14T16:00:00.240Z,37.1003333,-116.0481667,0.01,5.2,ml,113,240,,0.4,ci,ci610724,2016-04-02T05:49:07.823Z,"66km ENE of Beatty, NV",nuclear explosion,99,31.61,0.137,12,reviewed,ci,ci
 1986-09-30T22:30:00.710Z,37.3001667,-116.3073333,0.01,5.14,ml,117,239,,0.39,ci,ci710086,2016-04-01T23:19:10.951Z,"59km NE of Beatty, NV",nuclear explosion,99,31.61,0.133,9,reviewed,ci,ci
-1986-08-01T14:28:18.150Z,37.5103333,-118.399,7.964,5.1,ml,26,50,0.05135,0.08,nc,nc85660,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.29,1.21,,5,reviewed,nc,nc
-1986-07-31T07:22:39.770Z,37.4731667,-118.3686667,5.754,5.8,ml,45,81,0.05405,0.07,nc,nc78895,2020-07-07T22:37:41.917Z,"Central California",earthquake,0.26,0.63,,7,reviewed,nc,nc
-1986-07-22T13:48:59.150Z,37.5258333,-118.4715,10.653,5,ml,34,65,0.08018,0.04,nc,nc92934,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.34,1.12,,5,reviewed,nc,nc
-1986-07-21T22:07:15.640Z,37.6213333,-118.3425,-0.076,5.6,ml,18,296,0.2495,0.05,nc,nc95459,2020-07-10T14:25:43.047Z,"Central California",earthquake,3,7.22,,6,reviewed,nc,nc
-1986-07-21T14:51:09.370Z,37.4931667,-118.4538333,8.482,5.7,ml,28,198,0.1126,0.04,nc,nc10085764,2020-07-07T22:29:38.484Z,"Central California",earthquake,0.71,1.28,,6,reviewed,nc,nc
-1986-07-21T14:42:26.000Z,37.538,-118.4428333,8.804,6.4,ml,42,55,0.09369,0.06,nc,nc10085763,2021-02-18T19:02:52.217Z,"Central California",earthquake,0.22,0.77,,7,reviewed,nc,nc
-1986-07-20T14:29:45.440Z,37.5666667,-118.4381667,5.044,5.9,ml,41,54,0.08108,0.04,nc,nc99451,2021-05-25T01:06:27.292Z,"Central California",earthquake,0.19,0.85,,7,reviewed,nc,nc
+1986-08-01T14:28:18.150Z,37.5103333,-118.399,7.964,5.1,ml,26,50,0.05135,0.08,nc,nc85660,2018-06-04T20:43:45.000Z,Central California,earthquake,0.29,1.21,,5,reviewed,nc,nc
+1986-07-31T07:22:39.770Z,37.4731667,-118.3686667,5.754,5.8,ml,45,81,0.05405,0.07,nc,nc78895,2020-07-07T22:37:41.917Z,Central California,earthquake,0.26,0.63,,7,reviewed,nc,nc
+1986-07-22T13:48:59.150Z,37.5258333,-118.4715,10.653,5,ml,34,65,0.08018,0.04,nc,nc92934,2018-06-04T20:43:45.000Z,Central California,earthquake,0.34,1.12,,5,reviewed,nc,nc
+1986-07-21T22:07:15.640Z,37.6213333,-118.3425,-0.076,5.6,ml,18,296,0.2495,0.05,nc,nc95459,2020-07-10T14:25:43.047Z,Central California,earthquake,3,7.22,,6,reviewed,nc,nc
+1986-07-21T14:51:09.370Z,37.4931667,-118.4538333,8.482,5.7,ml,28,198,0.1126,0.04,nc,nc10085764,2020-07-07T22:29:38.484Z,Central California,earthquake,0.71,1.28,,6,reviewed,nc,nc
+1986-07-21T14:42:26.000Z,37.538,-118.4428333,8.804,6.4,ml,42,55,0.09369,0.06,nc,nc10085763,2021-02-18T19:02:52.217Z,Central California,earthquake,0.22,0.77,,7,reviewed,nc,nc
+1986-07-20T14:29:45.440Z,37.5666667,-118.4381667,5.044,5.9,ml,41,54,0.08108,0.04,nc,nc99451,2021-05-25T01:06:27.292Z,Central California,earthquake,0.19,0.85,,7,reviewed,nc,nc
 1986-07-17T21:00:00.790Z,37.2786667,-116.3556667,0.01,5.22,ml,69,296,,0.34,ci,ci702987,2016-04-02T18:32:27.191Z,"54km NE of Beatty, NV",nuclear explosion,99,31.61,0.191,10,reviewed,ci,ci
 1986-07-13T13:47:08.210Z,32.971,-117.874,5.828,5.45,ml,0,166.2,,0.431,ci,ci127298,2020-08-25T22:12:09.440Z,"47km ENE of San Clemente Is. (SE tip), CA",earthquake,,,,8,reviewed,ci,ci
 1986-07-08T09:20:44.560Z,33.999,-116.608,9.468,6,mw,0,26.6,,0.092,ci,ci700917,2021-01-05T01:49:32.218Z,"6km SSW of Morongo Valley, CA",earthquake,,0.015,,0,reviewed,ci,ci
 1986-06-25T20:27:44.940Z,37.2646667,-116.33,0.01,5.11,ml,137,230,,0.44,ci,ci700370,2016-02-04T01:25:04.400Z,"55km NE of Beatty, NV",nuclear explosion,99,31.61,0.109,9,reviewed,ci,ci
-1986-03-31T11:55:39.810Z,37.4791667,-121.6866667,8.502,5.7,ml,87,65,0.02703,0.06,nc,nc68932,2020-07-07T22:36:23.052Z,"Northern California",earthquake,0.13,0.41,,6,reviewed,nc,nc
-1986-01-26T19:20:50.950Z,36.8043333,-121.285,8.153,5.5,ml,91,27,0.05946,0.05,nc,nc64626,2021-02-18T19:02:30.599Z,"Central California",earthquake,0.12,0.21,,8,reviewed,nc,nc
+1986-03-31T11:55:39.810Z,37.4791667,-121.6866667,8.502,5.7,ml,87,65,0.02703,0.06,nc,nc68932,2020-07-07T22:36:23.052Z,Northern California,earthquake,0.13,0.41,,6,reviewed,nc,nc
+1986-01-26T19:20:50.950Z,36.8043333,-121.285,8.153,5.5,ml,91,27,0.05946,0.05,nc,nc64626,2021-02-18T19:02:30.599Z,Central California,earthquake,0.12,0.21,,8,reviewed,nc,nc
 1985-12-05T15:00:00.190Z,37.0533333,-116.0453333,0.01,5.16,ml,136,231,,0.35,ci,ci110106,2016-04-02T09:01:23.095Z,"65km ENE of Beatty, NV",nuclear explosion,99,31.61,0.152,12,reviewed,ci,ci
-1985-08-04T12:01:55.870Z,36.143,-120.1563333,15.89,5.6,ml,45,163,0.09009,0.08,nc,nc52348,2020-07-10T14:23:40.229Z,"Central California",earthquake,0.27,0.55,,0,reviewed,nc,nc
+1985-08-04T12:01:55.870Z,36.143,-120.1563333,15.89,5.6,ml,45,163,0.09009,0.08,nc,nc52348,2020-07-10T14:23:40.229Z,Central California,earthquake,0.27,0.55,,0,reviewed,nc,nc
 1985-07-25T14:00:00.660Z,37.2971667,-116.4381667,0.01,5.08,ml,135,230,,0.38,ci,ci69047,2016-04-02T05:49:41.249Z,"51km NNE of Beatty, NV",nuclear explosion,99,31.61,0.166,6,reviewed,ci,ci
 1985-06-12T15:15:00.480Z,37.2478333,-116.489,0.01,5.05,ml,147,224,,0.44,ci,ci65963,2016-04-02T12:15:07.977Z,"44km NNE of Beatty, NV",nuclear explosion,99,31.61,0.175,7,reviewed,ci,ci
 1985-05-02T15:20:00.550Z,37.2533333,-116.3251667,0.01,5.06,ml,124,225,,0.4,ci,ci65454,2016-04-02T18:32:34.648Z,"54km NE of Beatty, NV",nuclear explosion,99,31.61,0.214,12,reviewed,ci,ci
 1985-04-02T20:00:00.110Z,37.0948333,-116.0323333,0.01,5.26,ml,146,232,,0.38,ci,ci61918,2016-04-02T08:59:28.528Z,"67km ENE of Beatty, NV",nuclear explosion,99,31.61,0.148,12,reviewed,ci,ci
-1985-03-25T16:05:12.750Z,37.4525,-118.6116667,5.757,5.1,ml,45,57,0.02252,0.05,nc,nc44669,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.22,0.56,,0,reviewed,nc,nc
-1985-01-24T11:27:20.990Z,38.1565,-118.8155,10.093,5.2,ml,59,68,0.1568,0.07,nc,nc38526,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.2,1.06,,0,reviewed,nc,nc
-1984-11-26T16:21:40.810Z,37.4473333,-118.6476667,5.955,5.6,ml,35,125,0.09009,0.05,nc,nc39753,2021-02-18T19:01:44.263Z,"Central California",earthquake,0.34,1.24,,0,reviewed,nc,nc
-1984-11-23T19:12:34.680Z,37.4321667,-118.6071667,10.516,5.5,ml,47,80,0.02613,0.06,nc,nc32650,2020-07-10T14:22:27.719Z,"Central California",earthquake,0.25,0.68,,8,reviewed,nc,nc
-1984-11-23T18:08:25.360Z,37.4596667,-118.6071667,8.096,6.1,ml,31,66,0.1135,0.08,nc,nc32321,2020-12-31T23:23:02.792Z,"Central California",earthquake,0.39,0.84,,0,reviewed,nc,nc
-1984-09-10T03:14:28.100Z,40.5038333,-125.1303333,4.333,6.6,ml,56,262,0.6063,1.18,nc,nc27615,2020-07-10T14:21:19.878Z,"offshore Northern California",earthquake,14.3,23.2,,0,reviewed,nc,nc
+1985-03-25T16:05:12.750Z,37.4525,-118.6116667,5.757,5.1,ml,45,57,0.02252,0.05,nc,nc44669,2018-06-04T20:43:45.000Z,Central California,earthquake,0.22,0.56,,0,reviewed,nc,nc
+1985-01-24T11:27:20.990Z,38.1565,-118.8155,10.093,5.2,ml,59,68,0.1568,0.07,nc,nc38526,2018-06-04T20:43:45.000Z,Central California,earthquake,0.2,1.06,,0,reviewed,nc,nc
+1984-11-26T16:21:40.810Z,37.4473333,-118.6476667,5.955,5.6,ml,35,125,0.09009,0.05,nc,nc39753,2021-02-18T19:01:44.263Z,Central California,earthquake,0.34,1.24,,0,reviewed,nc,nc
+1984-11-23T19:12:34.680Z,37.4321667,-118.6071667,10.516,5.5,ml,47,80,0.02613,0.06,nc,nc32650,2020-07-10T14:22:27.719Z,Central California,earthquake,0.25,0.68,,8,reviewed,nc,nc
+1984-11-23T18:08:25.360Z,37.4596667,-118.6071667,8.096,6.1,ml,31,66,0.1135,0.08,nc,nc32321,2020-12-31T23:23:02.792Z,Central California,earthquake,0.39,0.84,,0,reviewed,nc,nc
+1984-09-10T03:14:28.100Z,40.5038333,-125.1303333,4.333,6.6,ml,56,262,0.6063,1.18,nc,nc27615,2020-07-10T14:21:19.878Z,offshore Northern California,earthquake,14.3,23.2,,0,reviewed,nc,nc
 1984-05-31T13:03:59.540Z,37.1271667,-115.9726667,0.01,5.38,ml,128,240,,0.3,ci,ci41181,2016-04-01T23:20:39.265Z,"74km ENE of Beatty, NV",nuclear explosion,2.42,31.61,0.135,9,reviewed,ci,ci
-1984-04-24T21:15:18.760Z,37.3096667,-121.6788333,8.193,6.2,ml,101,26,0.05135,0.06,nc,nc17204,2021-01-07T22:47:41.408Z,"Northern California",earthquake,0.11,0.31,,0,reviewed,nc,nc
+1984-04-24T21:15:18.760Z,37.3096667,-121.6788333,8.193,6.2,ml,101,26,0.05135,0.06,nc,nc17204,2021-01-07T22:47:41.408Z,Northern California,earthquake,0.11,0.31,,0,reviewed,nc,nc
 1984-03-01T17:45:00.120Z,37.0658333,-116.0463333,0.01,5.21,ml,121,238,,0.5,ci,ci33291,2016-02-02T20:12:59.080Z,"65km ENE of Beatty, NV",nuclear explosion,99,31.61,0.189,11,reviewed,ci,ci
-1984-02-28T15:16:14.120Z,40.4308333,-125.1951667,7.931,5.2,ml,57,277,0.6568,0.13,nc,nc8089,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,2.4,9.69,,0,reviewed,nc,nc
-1984-01-23T05:40:19.610Z,36.3766667,-121.8956667,6.634,5.1,ml,150,192,0.1775,0.21,nc,nc1110293,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.43,0.62,,0,reviewed,nc,nc
-1983-12-20T10:41:02.250Z,40.408,-125.6465,8.126,5.66,ml,86,287,1.066,0.23,nc,nc1108755,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,3.82,20.61,,7,reviewed,nc,nc
-1983-09-09T09:16:13.510Z,36.2198333,-120.2796667,6.887,5.47,md,53,125,0.05946,0.05,nc,nc1102223,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.17,0.27,0.35,21,reviewed,nc,nc
-1983-08-29T10:10:30.830Z,35.83,-121.3555,9.638,5.2,ml,105,180,0.06667,0.19,nc,nc1101424,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.37,0.3,,0,reviewed,nc,nc
-1983-08-24T13:36:28.830Z,40.372,-124.9245,11.188,5.5,ml,41,257,0.4604,0.14,nc,nc1100970,2020-07-07T22:32:16.901Z,"offshore Northern California",earthquake,1.65,2.18,,0,reviewed,nc,nc
-1983-07-25T22:31:39.480Z,36.2245,-120.4023333,8.215,5.04,md,48,41,0.05405,0.08,nc,nc1099288,2020-07-10T14:19:58.158Z,"Central California",earthquake,0.14,0.3,0.18,8,reviewed,nc,nc
-1983-07-22T02:39:53.960Z,36.2356667,-120.4138333,7.265,5.37,ma,50,47,0.05946,0.09,nc,nc1098982,2020-07-07T22:32:03.675Z,"Central California",earthquake,0.14,0.33,0.23,4,reviewed,nc,nc
-1983-07-03T18:40:07.630Z,37.557,-118.8458333,8.706,5.3,ml,21,113,0.03694,0.04,nc,nc1098008,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.32,0.57,,0,reviewed,nc,nc
-1983-05-09T02:49:11.540Z,36.2463333,-120.3008333,12.916,5.2,ml,66,32,0.03063,0.09,nc,nc1093715,2020-07-10T14:19:33.449Z,"Central California",earthquake,0.13,0.15,,0,reviewed,nc,nc
-1983-05-02T23:46:06.000Z,36.23,-120.29,8,5.5,mb,,,,,us,usp0001uxb,2021-03-09T23:55:28.978Z,"Central California",earthquake,,,,3,reviewed,brk,us
-1983-05-02T23:42:38.060Z,36.2316667,-120.312,9.578,6.7,ml,64,137,0.03063,0.07,nc,nc1091100,2020-09-22T15:32:55.091Z,"Central California",earthquake,0.28,0.24,,0,reviewed,nc,nc
+1984-02-28T15:16:14.120Z,40.4308333,-125.1951667,7.931,5.2,ml,57,277,0.6568,0.13,nc,nc8089,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,2.4,9.69,,0,reviewed,nc,nc
+1984-01-23T05:40:19.610Z,36.3766667,-121.8956667,6.634,5.1,ml,150,192,0.1775,0.21,nc,nc1110293,2018-06-04T20:43:45.000Z,Central California,earthquake,0.43,0.62,,0,reviewed,nc,nc
+1983-12-20T10:41:02.250Z,40.408,-125.6465,8.126,5.66,ml,86,287,1.066,0.23,nc,nc1108755,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,3.82,20.61,,7,reviewed,nc,nc
+1983-09-09T09:16:13.510Z,36.2198333,-120.2796667,6.887,5.47,md,53,125,0.05946,0.05,nc,nc1102223,2018-06-04T20:43:45.000Z,Central California,earthquake,0.17,0.27,0.35,21,reviewed,nc,nc
+1983-08-29T10:10:30.830Z,35.83,-121.3555,9.638,5.2,ml,105,180,0.06667,0.19,nc,nc1101424,2018-06-04T20:43:45.000Z,Central California,earthquake,0.37,0.3,,0,reviewed,nc,nc
+1983-08-24T13:36:28.830Z,40.372,-124.9245,11.188,5.5,ml,41,257,0.4604,0.14,nc,nc1100970,2020-07-07T22:32:16.901Z,offshore Northern California,earthquake,1.65,2.18,,0,reviewed,nc,nc
+1983-07-25T22:31:39.480Z,36.2245,-120.4023333,8.215,5.04,md,48,41,0.05405,0.08,nc,nc1099288,2020-07-10T14:19:58.158Z,Central California,earthquake,0.14,0.3,0.18,8,reviewed,nc,nc
+1983-07-22T02:39:53.960Z,36.2356667,-120.4138333,7.265,5.37,ma,50,47,0.05946,0.09,nc,nc1098982,2020-07-07T22:32:03.675Z,Central California,earthquake,0.14,0.33,0.23,4,reviewed,nc,nc
+1983-07-03T18:40:07.630Z,37.557,-118.8458333,8.706,5.3,ml,21,113,0.03694,0.04,nc,nc1098008,2018-06-04T20:43:45.000Z,Central California,earthquake,0.32,0.57,,0,reviewed,nc,nc
+1983-05-09T02:49:11.540Z,36.2463333,-120.3008333,12.916,5.2,ml,66,32,0.03063,0.09,nc,nc1093715,2020-07-10T14:19:33.449Z,Central California,earthquake,0.13,0.15,,0,reviewed,nc,nc
+1983-05-02T23:46:06.000Z,36.23,-120.29,8,5.5,mb,,,,,us,usp0001uxb,2021-03-09T23:55:28.978Z,Central California,earthquake,,,,3,reviewed,brk,us
+1983-05-02T23:42:38.060Z,36.2316667,-120.312,9.578,6.7,ml,64,137,0.03063,0.07,nc,nc1091100,2020-09-22T15:32:55.091Z,Central California,earthquake,0.28,0.24,,0,reviewed,nc,nc
 1983-04-14T19:05:00.350Z,37.0728333,-116.046,0.01,5.22,ml,28,279,,0.24,ci,ci1104973,2016-02-02T20:10:21.200Z,"66km ENE of Beatty, NV",nuclear explosion,99,31.61,0.177,14,reviewed,ci,ci
 1983-01-07T03:24:18.970Z,37.6286667,-118.935,3.681,5.3,ml,13,110,0.02252,0.04,nc,nc1084069,2021-02-18T19:00:37.578Z,"Long Valley area, California",earthquake,0.22,1.45,,0,reviewed,nc,nc
 1983-01-07T01:38:10.040Z,37.6215,-118.9018333,4.706,5.4,ml,7,188,0.05225,0,nc,nc1084017,2020-07-10T14:19:11.862Z,"Long Valley area, California",earthquake,1.1,5.18,,0,reviewed,nc,nc
-1982-10-25T22:26:03.600Z,36.3198333,-120.5061667,11.37,5.4,ml,68,88,0.1108,0.11,nc,nc1080773,2020-07-10T14:18:47.355Z,"Central California",earthquake,0.27,0.46,,0,reviewed,nc,nc
-1982-10-15T10:58:39.120Z,32.842,-125.821,5,5.1,mb,,,,,us,usp0001q8t,2016-11-09T23:43:24.926Z,"North Pacific Ocean",earthquake,,,,19,reviewed,nc,us
+1982-10-25T22:26:03.600Z,36.3198333,-120.5061667,11.37,5.4,ml,68,88,0.1108,0.11,nc,nc1080773,2020-07-10T14:18:47.355Z,Central California,earthquake,0.27,0.46,,0,reviewed,nc,nc
+1982-10-15T10:58:39.120Z,32.842,-125.821,5,5.1,mb,,,,,us,usp0001q8t,2016-11-09T23:43:24.926Z,North Pacific Ocean,earthquake,,,,19,reviewed,nc,us
 1982-10-01T14:29:01.700Z,35.743,-117.756,2.995,5.12,mc,0,45.8,,0.173,ci,ci508442,2020-07-09T21:44:51.383Z,"12km NNE of Inyokern, CA",earthquake,,0.705,,43,reviewed,ci,ci
 1982-09-24T07:40:24.770Z,37.859,-118.149,4.165,5.17,ml,0,156.1,,0.297,ci,ci508150,2018-06-04T20:43:45.000Z,"58km NNE of Dixon Lane-Meadow Creek, CA",earthquake,,,,12,reviewed,ci,ci
 1982-08-05T13:59:58.100Z,37.105,-115.93,0,5.31,ml,0,229.2,,0.315,ci,ci506185,2016-02-02T21:07:54.080Z,"74km WSW of Alamo, NV",nuclear explosion,,,,11,reviewed,ci,ci
 1982-06-24T14:15:00.550Z,37.2361667,-116.3701667,0.2,5.02,ml,123,242,,0.45,ci,ci504467,2016-04-01T23:47:59.529Z,"50km NE of Beatty, NV",nuclear explosion,99,31.61,0.332,10,reviewed,ci,ci
 1982-05-07T18:17:00.460Z,37.0691667,-116.0455,0.6,5.15,ml,134,225,,2.43,ci,ci530259,2016-04-02T12:40:41.370Z,"65km ENE of Beatty, NV",nuclear explosion,99,31.61,0.135,11,reviewed,ci,ci
-1982-02-12T14:55:00.080Z,37.224,-116.463,0,5.4,mb,,,,,us,usp0001jky,2015-06-16T15:41:08.176Z,"Nevada",nuclear explosion,,,,58,reviewed,doe,us
-1982-02-06T12:02:01.630Z,41.0795,-125.163,5.162,5.2,ml,58,295,0.8189,0.19,nc,nc1071848,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,3.7,6.8,,0,reviewed,nc,nc
+1982-02-12T14:55:00.080Z,37.224,-116.463,0,5.4,mb,,,,,us,usp0001jky,2015-06-16T15:41:08.176Z,Nevada,nuclear explosion,,,,58,reviewed,doe,us
+1982-02-06T12:02:01.630Z,41.0795,-125.163,5.162,5.2,ml,58,295,0.8189,0.19,nc,nc1071848,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,3.7,6.8,,0,reviewed,nc,nc
 1982-01-28T16:00:00.260Z,37.0913333,-116.0511667,0.6,5.06,mc,145,226,,0.52,ci,ci150237,2016-04-02T16:42:48.000Z,"66km ENE of Beatty, NV",nuclear explosion,99,31.61,,31,reviewed,ci,ci
 1981-11-12T15:00:00.180Z,37.1081667,-116.049,0.5,5.08,ml,120,239,,0.45,ci,ci526897,2016-04-02T06:23:02.288Z,"66km ENE of Beatty, NV",nuclear explosion,99,31.61,0.111,18,reviewed,ci,ci
-1981-09-30T11:53:26.190Z,37.5838333,-118.8645,3.126,5.9,ml,18,83,0.03243,0.07,nc,nc1068066,2021-02-18T19:00:24.632Z,"Central California",earthquake,0.27,0.49,,6,reviewed,nc,nc
+1981-09-30T11:53:26.190Z,37.5838333,-118.8645,3.126,5.9,ml,18,83,0.03243,0.07,nc,nc1068066,2021-02-18T19:00:24.632Z,Central California,earthquake,0.27,0.49,,6,reviewed,nc,nc
 1981-09-04T15:50:48.700Z,33.5575,-119.1195,5.549,5.45,ml,106,88,,0.35,ci,ci522177,2020-07-09T21:45:04.296Z,"11km NNW of Santa Barbara Is., CA",earthquake,0.9,31.61,0.171,10,reviewed,ci,ci
 1981-06-06T18:00:00.640Z,37.3033333,-116.3256667,0.6,5.13,ml,126,227,,0.4,ci,ci517243,2016-04-02T09:36:10.483Z,"58km NE of Beatty, NV",nuclear explosion,99,31.61,0.218,22,reviewed,ci,ci
 1981-04-26T12:09:28.290Z,33.0955,-115.6245,18.904,5.75,ml,81,34,,0.34,ci,ci514869,2020-07-07T22:14:51.719Z,"6km N of Westmorland, CA",earthquake,0.56,0.67,0.161,6,reviewed,ci,ci
 1981-01-15T20:25:00.420Z,37.0871667,-116.0446667,0.6,5.26,ml,19,224,,0.35,ci,ci12250539,2016-02-02T22:45:05.320Z,"66km ENE of Beatty, NV",nuclear explosion,4.64,31.61,0.408,7,reviewed,ci,ci
-1980-12-24T13:29:31.640Z,41.299,-124.7443333,2.821,5,ml,13,317,0.6198,0.16,nc,nc1058482,2016-12-14T04:50:49.190Z,"offshore Northern California",earthquake,10.94,8.22,,0,reviewed,nc,nc
-1980-11-28T18:21:13.040Z,39.2515,-120.4538333,5.921,5.1,ml,225,76,0.3396,0.33,nc,nc1057587,2020-07-10T14:18:12.171Z,"Northern California",earthquake,0.36,0.48,,0,reviewed,nc,nc
-1980-11-09T04:09:08.800Z,40.501,-125.343,15,5,mb,,,,,us,usp0001aqt,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,,,,,reviewed,us,us
-1980-11-08T23:07:10.400Z,40.535,-124.784,15,5,ms,,,,,us,usp0001aqn,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,,,,,reviewed,us,us
-1980-11-08T11:20:38.700Z,40.247,-124.742,15,5,mb,,,,,us,usp0001aq5,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,,,,,reviewed,us,us
-1980-11-08T10:27:34.000Z,41.117,-124.253,19,7.2,mw,,,,,us,usp0001aq1,2020-07-07T23:30:38.367Z,"offshore Northern California",earthquake,,,,,reviewed,us,01023
+1980-12-24T13:29:31.640Z,41.299,-124.7443333,2.821,5,ml,13,317,0.6198,0.16,nc,nc1058482,2016-12-14T04:50:49.190Z,offshore Northern California,earthquake,10.94,8.22,,0,reviewed,nc,nc
+1980-11-28T18:21:13.040Z,39.2515,-120.4538333,5.921,5.1,ml,225,76,0.3396,0.33,nc,nc1057587,2020-07-10T14:18:12.171Z,Northern California,earthquake,0.36,0.48,,0,reviewed,nc,nc
+1980-11-09T04:09:08.800Z,40.501,-125.343,15,5,mb,,,,,us,usp0001aqt,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,,,,,reviewed,us,us
+1980-11-08T23:07:10.400Z,40.535,-124.784,15,5,ms,,,,,us,usp0001aqn,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,,,,,reviewed,us,us
+1980-11-08T11:20:38.700Z,40.247,-124.742,15,5,mb,,,,,us,usp0001aq5,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,,,,,reviewed,us,us
+1980-11-08T10:27:34.000Z,41.117,-124.253,19,7.2,mw,,,,,us,usp0001aq1,2020-07-07T23:30:38.367Z,offshore Northern California,earthquake,,,,,reviewed,us,1023
 1980-09-07T06:48:34.800Z,37.987,-118.5503333,6,5.07,ml,4,342,0.9653,0.87,ci,ci3303564,2018-06-04T20:43:45.000Z,"54km NE of Mammoth Lakes, CA",earthquake,29.79,31.61,0.265,7,reviewed,ci,ci
 1980-09-07T04:36:38.250Z,38.1383333,-118.3913333,6,5.52,ml,5,333,1.09,0.33,ci,ci9735242,2018-06-04T20:43:45.000Z,"48km SSE of Hawthorne, NV",earthquake,8.02,31.61,0.206,12,reviewed,ci,ci
 1980-09-07T01:30:42.650Z,38.1468333,-118.4671667,6,5.01,ml,9,319,1.107,0.48,ci,ci3303554,2018-06-04T20:43:45.000Z,"44km SSE of Hawthorne, NV",earthquake,6.14,31.61,0.128,13,reviewed,ci,ci
-1980-08-01T16:38:55.880Z,37.5621667,-118.8731667,4.532,5.4,ml,12,180,0.04775,0.09,nc,nc1054751,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.49,0.62,,0,reviewed,nc,nc
+1980-08-01T16:38:55.880Z,37.5621667,-118.8731667,4.532,5.4,ml,12,180,0.04775,0.09,nc,nc1054751,2018-06-04T20:43:45.000Z,Central California,earthquake,0.49,0.62,,0,reviewed,nc,nc
 1980-07-25T19:05:00.570Z,37.2563333,-116.4773333,0.7,5.42,ml,13,293,1.969,0.41,ci,ci12343695,2016-02-03T00:16:28.180Z,"46km NNE of Beatty, NV",nuclear explosion,99,31.61,0.136,18,reviewed,ci,ci
-1980-06-29T07:46:13.240Z,38.0131667,-118.6633333,7.298,5,ml,20,78,0.1009,0.14,nc,nc1054082,2020-07-10T14:18:01.443Z,"Central California",earthquake,0.44,1.44,,0,reviewed,nc,nc
+1980-06-29T07:46:13.240Z,38.0131667,-118.6633333,7.298,5,ml,20,78,0.1009,0.14,nc,nc1054082,2020-07-10T14:18:01.443Z,Central California,earthquake,0.44,1.44,,0,reviewed,nc,nc
 1980-06-12T17:15:01.390Z,37.2816667,-116.4538333,6,5.28,ml,18,284,1.551,0.35,ci,ci12334939,2016-04-01T21:51:42.934Z,"49km NNE of Beatty, NV",nuclear explosion,99,31.61,0.135,26,reviewed,ci,ci
 1980-06-09T03:28:19.140Z,32.1998333,-115.1221667,6,6.3,mw,16,233,0.5968,0.62,ci,ci9730174,2020-07-07T22:17:19.065Z,"5km SE of Alberto Oviedo Mota, B.C., MX",earthquake,4.51,31.61,,0,reviewed,ci,ci
-1980-05-27T14:50:56.810Z,37.5033333,-118.8055,13.795,6.2,ml,19,183,0.04685,0.12,nc,nc1053177,2021-01-07T22:53:10.802Z,"Central California",earthquake,0.71,0.45,,0,reviewed,nc,nc
-1980-05-26T18:57:55.590Z,37.5206667,-118.8761667,2.063,5.7,ml,12,211,0.08018,0.03,nc,nc1053105,2020-07-10T14:17:50.727Z,"Central California",earthquake,0.49,1.08,,0,reviewed,nc,nc
-1980-05-26T12:24:24.970Z,37.5686667,-118.8671667,7.156,5.1,ml,12,204,0.05405,0.07,nc,nc1053083,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.49,0.84,,0,reviewed,nc,nc
+1980-05-27T14:50:56.810Z,37.5033333,-118.8055,13.795,6.2,ml,19,183,0.04685,0.12,nc,nc1053177,2021-01-07T22:53:10.802Z,Central California,earthquake,0.71,0.45,,0,reviewed,nc,nc
+1980-05-26T18:57:55.590Z,37.5206667,-118.8761667,2.063,5.7,ml,12,211,0.08018,0.03,nc,nc1053105,2020-07-10T14:17:50.727Z,Central California,earthquake,0.49,1.08,,0,reviewed,nc,nc
+1980-05-26T12:24:24.970Z,37.5686667,-118.8671667,7.156,5.1,ml,12,204,0.05405,0.07,nc,nc1053083,2018-06-04T20:43:45.000Z,Central California,earthquake,0.49,0.84,,0,reviewed,nc,nc
 1980-05-25T20:59:22.370Z,37.6018333,-118.8198333,14.359,5,ml,6,92,0.01261,0.02,nc,nc1053059,2018-06-04T20:43:45.000Z,"Long Valley area, California",earthquake,0.71,1.38,,0,reviewed,nc,nc
 1980-05-25T20:35:47.930Z,37.6186667,-118.8348333,4.833,5.7,ml,4,182,0.005405,0.04,nc,nc1053058,2020-07-10T14:17:39.699Z,"Long Valley area, California",earthquake,1.65,3.79,,0,reviewed,nc,nc
-1980-05-25T19:44:50.910Z,37.5538333,-118.807,11.856,6.1,ml,7,191,0.03964,0.1,nc,nc1053054,2021-01-07T22:57:35.023Z,"Central California",earthquake,1.82,1.37,,0,reviewed,nc,nc
+1980-05-25T19:44:50.910Z,37.5538333,-118.807,11.856,6.1,ml,7,191,0.03964,0.1,nc,nc1053054,2021-01-07T22:57:35.023Z,Central California,earthquake,1.82,1.37,,0,reviewed,nc,nc
 1980-05-25T16:49:27.160Z,37.6768333,-118.8996667,6.686,6,ml,42,55,0.06126,1.35,nc,nc1053045,2021-01-07T22:59:05.985Z,"Long Valley area, California",earthquake,1.99,2.52,,0,reviewed,nc,nc
-1980-05-25T16:33:44.000Z,37.5903333,-118.831,6.806,6.1,ml,11,159,0.004505,0.15,nc,nc1053043,2021-01-07T23:00:38.080Z,"Central California",earthquake,1.71,1.44,,0,reviewed,nc,nc
+1980-05-25T16:33:44.000Z,37.5903333,-118.831,6.806,6.1,ml,11,159,0.004505,0.15,nc,nc1053043,2021-01-07T23:00:38.080Z,Central California,earthquake,1.71,1.44,,0,reviewed,nc,nc
 1980-04-26T17:00:00.550Z,37.2483333,-116.4223333,0.6,5.05,ml,114,245,,0.43,ci,ci3357408,2016-04-01T21:53:25.182Z,"48km NE of Beatty, NV",nuclear explosion,99,31.61,0.279,14,reviewed,ci,ci
 1980-04-16T20:00:00.210Z,37.1011667,-116.0305,0.6,5.13,ml,98,242,,0.36,ci,ci3357191,2016-04-02T14:05:59.234Z,"68km ENE of Beatty, NV",nuclear explosion,99,31.61,0.276,16,reviewed,ci,ci
-1980-03-03T14:17:03.330Z,40.4136667,-125.1461667,8.889,5.1,ml,31,288,0.6216,0.1,nc,nc1051336,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,2.72,5.6,,0,reviewed,nc,nc
+1980-03-03T14:17:03.330Z,40.4136667,-125.1461667,8.889,5.1,ml,31,288,0.6216,0.1,nc,nc1051336,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,2.72,5.6,,0,reviewed,nc,nc
 1980-02-25T10:47:38.410Z,33.4753333,-116.4996667,19.41,5.34,ml,88,33,,0.45,ci,ci3326333,2020-07-07T22:11:22.489Z,"18km ESE of Anza, CA",earthquake,0.6,0.91,0.271,10,reviewed,ci,ci
 1980-01-27T02:33:35.340Z,37.749,-121.7063333,14.166,5.4,ml,82,102,0.07658,0.1,nc,nc1050437,2020-07-07T22:30:06.485Z,"San Francisco Bay area, California",earthquake,0.18,0.33,,0,reviewed,nc,nc
 1980-01-24T19:01:01.540Z,37.811,-121.775,6.523,5.1,ml,9,149,0.02252,0.21,nc,nc1050041,2018-06-04T20:43:45.000Z,"San Francisco Bay area, California",earthquake,0.85,1.41,,0,reviewed,nc,nc
-1980-01-24T19:00:09.500Z,37.852,-121.815,11,5.8,mw,,,,,us,usp000155j,2020-08-14T05:01:16.726Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,01009
+1980-01-24T19:00:09.500Z,37.852,-121.815,11,5.8,mw,,,,,us,usp000155j,2020-08-14T05:01:16.726Z,"San Francisco Bay area, California",earthquake,,,,,reviewed,b,1009
 1979-10-16T06:58:43.450Z,32.9986667,-115.5575,14.19,5.8,ml,7,79,0.05768,0.17,ci,ci3310205,2020-07-09T21:26:40.787Z,"3km NW of Brawley, CA",earthquake,1.03,1.78,,0,reviewed,ci,ci
 1979-10-16T06:19:49.490Z,32.9478333,-115.5478333,10,5.04,ml,35,71,0.09241,0.42,ci,ci3352194,2018-06-04T20:43:45.000Z,"4km SSW of Brawley, CA",earthquake,0.84,31.61,0.22,7,reviewed,ci,ci
 1979-10-16T05:49:10.830Z,32.9536667,-115.5595,10,5.06,ml,75,69,,0.57,ci,ci3352186,2018-06-04T20:43:45.000Z,"4km SW of Brawley, CA",earthquake,0.81,31.61,0.43,8,reviewed,ci,ci
 1979-10-15T23:19:29.980Z,32.766,-115.441,9.25,5.2,mh,0,,0.9534,,ci,ci9712718,2018-06-04T20:43:45.000Z,"8km SW of Holtville, CA",earthquake,,,,,reviewed,ci,ci
 1979-10-15T23:16:53.910Z,32.6673333,-115.3591667,15,6.4,mw,78,168,,0.5,ci,ci3352060,2021-01-07T23:34:42.357Z,"10km E of Mexicali, B.C., MX",earthquake,1.26,31.61,0.288,2,reviewed,ci,ci
-1979-10-07T20:54:40.750Z,38.2481667,-119.3256667,3.053,5,ml,12,139,0.473,0.06,nc,nc1048177,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.53,9.15,,0,reviewed,nc,nc
+1979-10-07T20:54:40.750Z,38.2481667,-119.3256667,3.053,5,ml,12,139,0.473,0.06,nc,nc1048177,2018-06-04T20:43:45.000Z,Central California,earthquake,0.53,9.15,,0,reviewed,nc,nc
 1979-09-26T15:00:00.520Z,37.2291667,-116.364,0.6,5.13,ml,100,245,,0.44,ci,ci3351707,2016-04-02T10:43:36.068Z,"50km NE of Beatty, NV",nuclear explosion,99,31.61,0.307,8,reviewed,ci,ci
 1979-09-06T15:00:00.250Z,37.0881667,-116.0528333,0.6,5.32,ml,94,241,,0.41,ci,ci3351340,2016-04-02T17:03:15.638Z,"65km ENE of Beatty, NV",nuclear explosion,3.77,31.61,0.294,6,reviewed,ci,ci
-1979-08-06T17:05:22.930Z,37.1038333,-121.5123333,8.315,5.8,ml,95,97,0.05225,0.06,nc,nc1046962,2020-08-14T05:00:09.032Z,"Northern California",earthquake,0.15,0.36,,0,reviewed,nc,nc
+1979-08-06T17:05:22.930Z,37.1038333,-121.5123333,8.315,5.8,ml,95,97,0.05225,0.06,nc,nc1046962,2020-08-14T05:00:09.032Z,Northern California,earthquake,0.15,0.36,,0,reviewed,nc,nc
 1979-06-11T13:59:59.880Z,37.3205,-116.336,0.7,5.28,ml,17,262,1.536,0.25,ci,ci12246827,2016-02-01T23:08:45.420Z,"59km NE of Beatty, NV",nuclear explosion,4.59,31.61,0.337,7,reviewed,ci,ci
-1979-04-07T06:18:54.620Z,41.1228333,-124.994,4.496,5.34,md,10,318,0.7685,0.13,nc,nc1045303,2016-12-16T00:59:24.906Z,"offshore Northern California",earthquake,10.35,13.58,,1,reviewed,nc,nc
+1979-04-07T06:18:54.620Z,41.1228333,-124.994,4.496,5.34,md,10,318,0.7685,0.13,nc,nc1045303,2016-12-16T00:59:24.906Z,offshore Northern California,earthquake,10.35,13.58,,1,reviewed,nc,nc
 1979-03-15T21:07:16.780Z,34.3258333,-116.416,9.27,5.23,ml,110,59,,0.41,ci,ci3346646,2020-07-09T21:35:07.747Z,"23km NNW of Joshua Tree, CA",earthquake,0.54,0.82,0.288,9,reviewed,ci,ci
-1979-02-22T15:57:28.600Z,39.9861667,-120.1126667,7.08,5.3,ml,46,77,0.1838,0.13,nc,nc1044768,2020-07-10T14:16:30.774Z,"Northern California",earthquake,0.29,0.66,,0,reviewed,nc,nc
+1979-02-22T15:57:28.600Z,39.9861667,-120.1126667,7.08,5.3,ml,46,77,0.1838,0.13,nc,nc1044768,2020-07-10T14:16:30.774Z,Northern California,earthquake,0.29,0.66,,0,reviewed,nc,nc
 1979-02-08T20:00:00.230Z,37.1025,-116.0548333,0.6,5.2,ml,100,263,,0.38,ci,ci3345991,2016-04-02T07:22:56.148Z,"66km ENE of Beatty, NV",nuclear explosion,3.87,31.61,0.372,9,reviewed,ci,ci
-1979-02-03T09:58:16.990Z,40.874,-124.3248333,23.592,5.2,ml,15,236,0.1793,0.08,nc,nc1044459,2020-07-10T14:16:18.281Z,"offshore Northern California",earthquake,1.45,0.93,,0,reviewed,nc,nc
+1979-02-03T09:58:16.990Z,40.874,-124.3248333,23.592,5.2,ml,15,236,0.1793,0.08,nc,nc1044459,2020-07-10T14:16:18.281Z,offshore Northern California,earthquake,1.45,0.93,,0,reviewed,nc,nc
 1979-01-01T23:14:38.620Z,33.9165,-118.6871667,13.3,5.21,ml,93,54,,0.43,ci,ci12228815,2020-07-09T21:11:34.437Z,"13km S of Malibu Beach, CA",earthquake,0.7,0.91,0.387,8,reviewed,ci,ci
 1978-12-16T15:30:00.480Z,37.2733333,-116.4103333,0.7,5.02,ml,112,247,,0.42,ci,ci3314224,2016-02-01T21:54:48.090Z,"51km NE of Beatty, NV",nuclear explosion,3.56,31.61,0.37,8,reviewed,ci,ci
-1978-12-03T06:48:08.690Z,40.6255,-125.7258333,102.966,5.07,md,13,317,1.106,0.17,nc,nc1043599,2016-12-15T23:08:52.639Z,"off the coast of Northern California",earthquake,10.57,8.96,,1,reviewed,nc,nc
-1978-10-04T17:39:02.460Z,37.5528333,-118.6553333,15.629,5.1,ml,160,89,0.491,0.4,nc,nc1042593,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.4,0.74,,0,reviewed,nc,nc
-1978-10-04T16:42:47.750Z,37.5188333,-118.7038333,3.078,5.18,md,29,174,0.5405,0.2,nc,nc1042591,2020-07-10T14:15:55.230Z,"Central California",earthquake,1.16,15.3,0.33,5,reviewed,nc,nc
+1978-12-03T06:48:08.690Z,40.6255,-125.7258333,102.966,5.07,md,13,317,1.106,0.17,nc,nc1043599,2016-12-15T23:08:52.639Z,off the coast of Northern California,earthquake,10.57,8.96,,1,reviewed,nc,nc
+1978-10-04T17:39:02.460Z,37.5528333,-118.6553333,15.629,5.1,ml,160,89,0.491,0.4,nc,nc1042593,2018-06-04T20:43:45.000Z,Central California,earthquake,0.4,0.74,,0,reviewed,nc,nc
+1978-10-04T16:42:47.750Z,37.5188333,-118.7038333,3.078,5.18,md,29,174,0.5405,0.2,nc,nc1042591,2020-07-10T14:15:55.230Z,Central California,earthquake,1.16,15.3,0.33,5,reviewed,nc,nc
 1978-09-27T17:20:00.160Z,37.0738333,-116.0198333,0.6,5.31,ml,108,241,,0.33,ci,ci3342587,2016-02-01T22:45:07.130Z,"68km ENE of Beatty, NV",nuclear explosion,2.92,31.61,0.353,8,reviewed,ci,ci
 1978-08-31T14:00:00.650Z,37.2758333,-116.3573333,0.7,5.29,ml,112,246,,0.41,ci,ci3341497,2016-02-01T21:18:28.880Z,"54km NE of Beatty, NV",nuclear explosion,3.51,31.61,0.327,7,reviewed,ci,ci
 1978-08-13T22:54:52.910Z,34.3136667,-119.706,18,5.08,ml,78,74,,0.48,ci,ci10012262,2020-08-14T04:59:02.894Z,"12km S of Santa Barbara, CA",earthquake,1,31.61,0.084,7,reviewed,ci,ci
@@ -332,13 +332,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 1977-04-27T15:00:00.180Z,37.0948333,-116.0278333,0.6,5.05,ml,87,268,,0.4,ci,ci3333220,2016-02-01T19:35:57.050Z,"68km ENE of Beatty, NV",nuclear explosion,4.38,31.61,0.364,9,reviewed,ci,ci
 1977-04-05T15:00:00.220Z,37.1201667,-116.0623333,0.7,5.13,ml,19,277,1.757,0.38,ci,ci10081202,2016-02-01T19:40:14.640Z,"66km ENE of Beatty, NV",nuclear explosion,9.86,31.61,0.338,8,reviewed,ci,ci
 1976-12-28T18:00:00.070Z,37.1005,-116.0365,0.01,5.13,ml,20,264,1.755,0.67,ci,ci12328591,2016-01-29T21:13:11.440Z,"67km ENE of Beatty, NV",nuclear explosion,99,31.61,0.194,17,reviewed,ci,ci
-1976-12-25T16:35:44.800Z,41.728,-126.014,15,5.1,mb,,,,,us,usp0000kxs,2014-11-06T23:21:38.987Z,"off the coast of Northern California",earthquake,,,,,reviewed,us,us
-1976-12-23T09:38:58.400Z,41.783,-125.953,15,5.5,ms,,,,,us,usp0000kwv,2021-05-13T21:55:43.979Z,"off the coast of Northern California",earthquake,,,,,reviewed,us,us
+1976-12-25T16:35:44.800Z,41.728,-126.014,15,5.1,mb,,,,,us,usp0000kxs,2014-11-06T23:21:38.987Z,off the coast of Northern California,earthquake,,,,,reviewed,us,us
+1976-12-23T09:38:58.400Z,41.783,-125.953,15,5.5,ms,,,,,us,usp0000kwv,2021-05-13T21:55:43.979Z,off the coast of Northern California,earthquake,,,,,reviewed,us,us
 1976-12-07T12:59:48.720Z,31.553,-114.543,6,5.45,ml,0,311.1,1.513,0.797,ci,ci149841,2020-07-09T21:13:07.914Z,"83km SSE of Estacion Coahuila, B.C., MX",earthquake,,,,10,reviewed,ci,ci
-1976-11-27T02:49:47.000Z,40.998,-120.447,5,5,mb,,,,,us,usp0000kgp,2014-11-06T23:21:38.388Z,"Northern California",earthquake,,,,,reviewed,b,us
-1976-11-26T11:19:32.070Z,41.0351667,-124.9496667,41.78,6.3,ml,13,318,0.6577,0.09,nc,nc1032447,2020-07-10T14:14:11.093Z,"offshore Northern California",earthquake,8.57,5.3,,0,reviewed,nc,nc
+1976-11-27T02:49:47.000Z,40.998,-120.447,5,5,mb,,,,,us,usp0000kgp,2014-11-06T23:21:38.388Z,Northern California,earthquake,,,,,reviewed,b,us
+1976-11-26T11:19:32.070Z,41.0351667,-124.9496667,41.78,6.3,ml,13,318,0.6577,0.09,nc,nc1032447,2020-07-10T14:14:11.093Z,offshore Northern California,earthquake,8.57,5.3,,0,reviewed,nc,nc
 1976-11-04T10:41:37.790Z,33.115,-115.616,4.61,5.06,ml,0,91.1,0.122,0.108,ci,ci149237,2020-07-09T21:12:56.507Z,"9km N of Westmorland, CA",earthquake,,0.028,,12,reviewed,ci,ci
-1976-08-26T14:30:00.200Z,37.125,-116.082,0,5.3,mb,,,,,us,usp0000j27,2015-06-16T17:21:17.747Z,"Nevada",nuclear explosion,,,,,reviewed,a,us
+1976-08-26T14:30:00.200Z,37.125,-116.082,0,5.3,mb,,,,,us,usp0000j27,2015-06-16T17:21:17.747Z,Nevada,nuclear explosion,,,,,reviewed,a,us
 1976-03-17T14:45:00.180Z,37.1073333,-116.0525,0.8,5.39,ml,55,256,,1.09,ci,ci3002391,2016-04-01T20:56:29.057Z,"66km ENE of Beatty, NV",nuclear explosion,99,31.61,0.11,6,reviewed,ci,ci
 1976-03-17T14:15:00.530Z,37.2558333,-116.3118333,0.9,5.52,ml,54,259,,0.39,ci,ci3002390,2016-04-02T13:04:13.815Z,"55km NE of Beatty, NV",nuclear explosion,99,31.61,0.092,8,reviewed,ci,ci
 1976-03-14T12:30:00.700Z,37.306,-116.4715,1.3,5.84,ml,52,260,,0.38,ci,ci3002345,2016-04-02T19:18:20.076Z,"51km NNE of Beatty, NV",nuclear explosion,99,31.61,0.246,12,reviewed,ci,ci
@@ -350,111 +350,111 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 1976-01-03T19:15:00.850Z,37.2965,-116.3331667,1.5,5.84,ml,20,261,1.534,0.44,ci,ci3001652,2016-01-29T21:37:06.080Z,"57km NE of Beatty, NV",nuclear explosion,99,31.61,0.123,8,reviewed,ci,ci
 1975-12-20T20:00:00.470Z,37.1276667,-116.0616667,0.7,5.18,ml,40,256,1.735,0.44,ci,ci3006661,2016-04-02T09:53:47.478Z,"66km ENE of Beatty, NV",nuclear explosion,99,31.61,0.108,14,reviewed,ci,ci
 1975-11-20T15:00:00.710Z,37.2248333,-116.3676667,0.8,5.44,ml,37,257,1.498,0.41,ci,ci3006424,2016-01-29T21:37:05.480Z,"49km NE of Beatty, NV",nuclear explosion,99,31.61,0.067,9,reviewed,ci,ci
-1975-11-16T17:29:40.250Z,40.6246667,-125.3146667,4.607,5,ml,13,319,0.818,0.15,nc,nc1027519,2021-05-13T21:55:42.896Z,"offshore Northern California",earthquake,11.7,14.95,,0,reviewed,nc,nc
+1975-11-16T17:29:40.250Z,40.6246667,-125.3146667,4.607,5,ml,13,319,0.818,0.15,nc,nc1027519,2021-05-13T21:55:42.896Z,offshore Northern California,earthquake,11.7,14.95,,0,reviewed,nc,nc
 1975-10-28T14:30:00.430Z,37.2901667,-116.4115,1.3,5.67,ml,19,260,1.472,2.75,ci,ci3006257,2016-01-29T22:01:19.580Z,"52km NE of Beatty, NV",nuclear explosion,99,31.61,0.302,8,reviewed,ci,ci
-1975-08-02T20:58:56.010Z,39.4378333,-121.4848333,1.506,5.2,ml,7,146,0.01802,0.03,nc,nc1025150,2020-07-10T14:12:58.538Z,"Northern California",earthquake,0.5,1.34,,0,reviewed,nc,nc
-1975-08-02T20:22:16.570Z,39.4493333,-121.4795,1.716,5.1,ml,7,102,0.01441,0.06,nc,nc1025145,2018-06-04T20:43:45.000Z,"Northern California",earthquake,0.62,1.78,,0,reviewed,nc,nc
+1975-08-02T20:58:56.010Z,39.4378333,-121.4848333,1.506,5.2,ml,7,146,0.01802,0.03,nc,nc1025150,2020-07-10T14:12:58.538Z,Northern California,earthquake,0.5,1.34,,0,reviewed,nc,nc
+1975-08-02T20:22:16.570Z,39.4493333,-121.4795,1.716,5.1,ml,7,102,0.01441,0.06,nc,nc1025145,2018-06-04T20:43:45.000Z,Northern California,earthquake,0.62,1.78,,0,reviewed,nc,nc
 1975-08-01T20:20:12.900Z,39.4321667,-121.5458333,4.97,5.7,ml,,,,,nc,nc71105799,2021-01-14T12:23:53.002Z,"0km WSW of Palermo, California",earthquake,,,,0,reviewed,nc,nc
 1975-07-17T18:24:44.710Z,31.812,-115.733,6,5.19,ml,0,274.3,,0.467,ci,ci3023015,2016-01-29T21:35:56.410Z,"70km SW of Alberto Oviedo Mota, B.C., MX",earthquake,,,,11,reviewed,ci,ci
 1975-06-26T12:30:01.110Z,37.2788333,-116.3686667,6,5.52,ml,19,260,1.504,3.44,ci,ci12328563,2016-01-29T21:13:10.330Z,"54km NE of Beatty, NV",nuclear explosion,99,31.61,0.341,13,reviewed,ci,ci
 1975-06-19T13:00:00.720Z,37.3503333,-116.3201667,0.9,5.36,ml,4,284,1.553,0.88,ci,ci12328559,2016-01-29T21:20:55.190Z,"62km NE of Beatty, NV",nuclear explosion,99,31.61,0.415,13,reviewed,ci,ci
-1975-06-07T08:46:23.510Z,40.5415,-124.2763333,23.13,5.3,ml,15,176,0.04595,0.04,nc,nc1024130,2020-07-10T14:12:45.073Z,"Northern California",earthquake,0.87,0.64,,0,reviewed,nc,nc
+1975-06-07T08:46:23.510Z,40.5415,-124.2763333,23.13,5.3,ml,15,176,0.04595,0.04,nc,nc1024130,2020-07-10T14:12:45.073Z,Northern California,earthquake,0.87,0.64,,0,reviewed,nc,nc
 1975-06-03T14:40:00.290Z,37.0948333,-116.0361667,0.6,5.29,ml,20,255,1.755,0.44,ci,ci12328555,2016-01-29T21:37:07.700Z,"67km ENE of Beatty, NV",nuclear explosion,99,31.61,0.197,12,reviewed,ci,ci
 1975-06-03T14:20:00.670Z,37.34,-116.5228333,0.7,5.37,ml,20,262,1.393,0.46,ci,ci12328551,2016-01-29T21:28:48.510Z,"52km NNE of Beatty, NV",nuclear explosion,99,31.61,0.282,12,reviewed,ci,ci
 1975-06-01T01:38:48.740Z,34.512,-116.488,0.11,5.28,ml,0,86.2,,0.299,ci,ci3022138,2018-06-04T20:43:45.000Z,"38km SW of Ludlow, CA",earthquake,,1.608,,7,reviewed,ci,ci
 1975-05-14T14:00:00.000Z,37.2208,-116.4742,0.8,5.39,ml,,,,,ci,ci12328547,2016-01-29T21:45:24.680Z,"43km NE of Beatty, NV",nuclear explosion,,,0.303,13,reviewed,ci,ci
 1975-03-07T15:00:00.380Z,37.134,-116.0841667,0.6,5.09,ml,21,257,1.718,0.61,ci,ci12328535,2016-01-29T21:05:29.780Z,"64km ENE of Beatty, NV",nuclear explosion,99,31.61,0.354,12,reviewed,ci,ci
 1975-02-28T15:15:00.480Z,37.1061667,-116.0563333,0.7,5.21,ml,41,248,,2.35,ci,ci3037970,2016-01-29T22:01:18.960Z,"66km ENE of Beatty, NV",nuclear explosion,99,31.61,0.306,10,reviewed,ci,ci
-1974-11-28T23:01:24.590Z,36.9201667,-121.4673333,5.336,5.2,ml,51,61,0.03784,0.13,nc,nc1021949,2018-06-04T20:43:45.000Z,"Central California",earthquake,0.26,0.59,,0,reviewed,nc,nc
+1974-11-28T23:01:24.590Z,36.9201667,-121.4673333,5.336,5.2,ml,51,61,0.03784,0.13,nc,nc1021949,2018-06-04T20:43:45.000Z,Central California,earthquake,0.26,0.59,,0,reviewed,nc,nc
 1974-08-30T15:00:01.590Z,37.1525,-116.0833333,0.7,5.28,ml,17,273,1.719,4.87,ci,ci3319092,2016-01-29T01:37:38.690Z,"65km ENE of Beatty, NV",nuclear explosion,99,31.61,0.15,8,reviewed,ci,ci
-1974-07-13T11:09:57.500Z,40.372,-125.182,1,5,mb,,,,,us,usp000073z,2014-11-06T23:21:25.184Z,"offshore Northern California",earthquake,,,,,reviewed,us,us
+1974-07-13T11:09:57.500Z,40.372,-125.182,1,5,mb,,,,,us,usp000073z,2014-11-06T23:21:25.184Z,offshore Northern California,earthquake,,,,,reviewed,us,us
 1974-07-10T16:00:00.400Z,37.0675,-116.0318333,0.6,5.08,ml,17,254,1.758,0.42,ci,ci3319121,2016-01-29T01:28:00.140Z,"67km ENE of Beatty, NV",nuclear explosion,99,31.61,0.311,9,reviewed,ci,ci
-1974-07-03T05:00:58.600Z,40.424,-125.136,12,5.4,mb,,,,,us,usp00006zr,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,,,,,reviewed,us,us
-1974-03-03T11:37:36.800Z,41.878,-125.446,33,5.1,mb,,,,,us,usp00005fz,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,,,,,reviewed,us,us
-1973-12-21T19:12:43.500Z,40.625,-124.597,30,5.2,mb,,,,,us,usp00004m1,2020-07-10T19:58:59.718Z,"offshore Northern California",earthquake,,,,,reviewed,us,us
-1973-08-09T02:18:25.800Z,40.26,-124.233,2,5.1,mb,,,,,us,usp000031j,2020-07-10T19:44:51.642Z,"Northern California",earthquake,,,,,reviewed,b,us
+1974-07-03T05:00:58.600Z,40.424,-125.136,12,5.4,mb,,,,,us,usp00006zr,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,,,,,reviewed,us,us
+1974-03-03T11:37:36.800Z,41.878,-125.446,33,5.1,mb,,,,,us,usp00005fz,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,,,,,reviewed,us,us
+1973-12-21T19:12:43.500Z,40.625,-124.597,30,5.2,mb,,,,,us,usp00004m1,2020-07-10T19:58:59.718Z,offshore Northern California,earthquake,,,,,reviewed,us,us
+1973-08-09T02:18:25.800Z,40.26,-124.233,2,5.1,mb,,,,,us,usp000031j,2020-07-10T19:44:51.642Z,Northern California,earthquake,,,,,reviewed,b,us
 1973-08-06T23:29:16.660Z,33.9568333,-119.4748333,16.92,5.14,ml,19,183,,0.37,ci,ci3319386,2020-07-09T21:29:24.418Z,"9km SSE of Santa Cruz Is. (E end), CA",earthquake,1.46,2.18,0.212,7,reviewed,ci,ci
-1973-06-15T19:18:51.700Z,41.2,-125.5,33,5.2,mb,,,,,ushis,ushis3237,2018-06-04T20:43:45.000Z,"off the coast of Northern California",earthquake,,,,,reviewed,ushis,us
+1973-06-15T19:18:51.700Z,41.2,-125.5,33,5.2,mb,,,,,ushis,ushis3237,2018-06-04T20:43:45.000Z,off the coast of Northern California,earthquake,,,,,reviewed,ushis,us
 1973-06-06T13:00:00.520Z,37.245,-116.346,1.1,5.64,ml,17,259,1.517,0.55,ci,ci3319623,2016-01-29T01:16:47.530Z,"52km NE of Beatty, NV",nuclear explosion,99,31.61,0.155,8,reviewed,ci,ci
 1973-02-21T14:45:56.140Z,33.979,-119.0501667,10,5.3,mw,14,183,0.7181,0.39,ci,ci3320341,2020-07-07T22:11:06.890Z,"22km W of Malibu, CA",earthquake,1.28,31.61,0.545,4,reviewed,ci,ci
-1972-09-23T02:44:05.400Z,41.7,-125.5,21,5.1,ms,,,,,ushis,ushis3207,2018-06-04T20:43:45.000Z,"off the coast of Northern California",earthquake,,,,,reviewed,ushis,us
+1972-09-23T02:44:05.400Z,41.7,-125.5,21,5.1,ms,,,,,ushis,ushis3207,2018-06-04T20:43:45.000Z,off the coast of Northern California,earthquake,,,,,reviewed,ushis,us
 1972-09-21T15:30:00.480Z,37.082,-116.0383333,0.6,5.1,ml,15,255,,0.42,ci,ci3321071,2016-01-29T01:45:24.060Z,"66km ENE of Beatty, NV",nuclear explosion,99,31.61,0.264,9,reviewed,ci,ci
-1972-03-01T09:28:56.000Z,40.535,-125.444,10,5.9,mw,,,,,iscgem,iscgem774945,2019-05-21T00:51:35.208Z,"offshore Northern California",earthquake,,,,,automatic,iscgem,iscgem
-1972-02-27T22:13:08.600Z,36.553,-121.093,8,5.22,mw,,,,,ushis,ushis3186,2018-06-04T20:43:45.000Z,"Central California",earthquake,,,,,reviewed,ushis,jm
+1972-03-01T09:28:56.000Z,40.535,-125.444,10,5.9,mw,,,,,iscgem,iscgem774945,2019-05-21T00:51:35.208Z,offshore Northern California,earthquake,,,,,automatic,iscgem,iscgem
+1972-02-27T22:13:08.600Z,36.553,-121.093,8,5.22,mw,,,,,ushis,ushis3186,2018-06-04T20:43:45.000Z,Central California,earthquake,,,,,reviewed,ushis,jm
 1971-09-30T22:46:10.870Z,32.9826667,-115.8038333,6,5.02,ml,8,96,,0.76,ci,ci3321788,2018-06-04T20:43:45.000Z,"18km WSW of Westmorland, CA",earthquake,3.18,31.61,0.149,9,reviewed,ci,ci
 1971-07-08T14:00:01.860Z,37.1101667,-116.0513333,0.5,5.01,ml,6,282,,0.75,ci,ci3322744,2016-01-29T01:15:14.460Z,"66km ENE of Beatty, NV",nuclear explosion,99,31.61,0.152,11,reviewed,ci,ci
-1971-02-27T00:31:39.900Z,40.4,-124.8,33,5.1,ms,,,,,ushis,ushis3150,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,,,,,reviewed,ushis,us
+1971-02-27T00:31:39.900Z,40.4,-124.8,33,5.1,ms,,,,,ushis,ushis3150,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,,,,,reviewed,ushis,us
 1971-02-09T14:10:29.040Z,34.416,-118.37,6,5.3,mh,0,360,0.3136,0,ci,ci3360199,2018-06-04T20:43:45.000Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
 1971-02-09T14:02:45.740Z,34.416,-118.37,6,5.8,mh,0,360,0.3136,0.005,ci,ci3360245,2021-02-18T18:59:12.977Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
 1971-02-09T14:01:12.450Z,34.416,-118.37,6,5.8,mh,0,328.5,0.3136,0.324,ci,ci3360255,2020-07-09T21:38:09.519Z,"10km SSW of Agua Dulce, CA",earthquake,,,,0,reviewed,ci,ci
 1971-02-09T14:00:41.920Z,34.416,-118.37,8.95,6.6,mw,0,123.4,,0.249,ci,ci3347678,2021-05-10T01:23:01.014Z,"10km SSW of Agua Dulce, CA",earthquake,,6.837,,0,reviewed,ci,ci
 1970-12-17T16:04:59.260Z,37.1428333,-116.034,0.01,5.19,ml,14,258,1.758,2.27,ci,ci3323536,2016-01-29T01:14:35.340Z,"69km ENE of Beatty, NV",nuclear explosion,99,31.61,0.314,11,reviewed,ci,ci
-1970-09-13T21:10:23.000Z,40.2,-125.1,33,5.4,mb,,,,,ushis,ushis3116,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,,,,,reviewed,ushis,us
+1970-09-13T21:10:23.000Z,40.2,-125.1,33,5.4,mb,,,,,ushis,ushis3116,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,,,,,reviewed,ushis,us
 1970-09-12T14:30:53.000Z,34.2548333,-117.5343333,10.75,5.22,ml,17,106,,0.36,ci,ci3323898,2020-04-16T21:06:10.635Z,"3km W of Lytle Creek, CA",earthquake,0.84,1.75,0.143,6,reviewed,ci,ci
-1970-06-07T04:12:10.300Z,40.3,-125.9,33,5,mb,,,,,ushis,ushis3106,2018-06-04T20:43:45.000Z,"off the coast of Northern California",earthquake,,,,,reviewed,ushis,us
+1970-06-07T04:12:10.300Z,40.3,-125.9,33,5,mb,,,,,ushis,ushis3106,2018-06-04T20:43:45.000Z,off the coast of Northern California,earthquake,,,,,reviewed,ushis,us
 1970-03-26T19:00:00.780Z,37.3005,-116.5341667,1.2,5.54,ml,16,260,1.377,0.35,ci,ci3325031,2016-01-29T01:43:28.890Z,"48km NNE of Beatty, NV",nuclear explosion,99,31.61,0.41,10,reviewed,ci,ci
 1970-03-23T23:05:00.480Z,37.0861667,-116.0211667,0.6,5,ml,14,255,1.767,1.48,ci,ci3324823,2016-01-29T01:29:07.480Z,"68km ENE of Beatty, NV",nuclear explosion,99,31.61,0.111,10,reviewed,ci,ci
 1970-02-04T17:00:00.160Z,37.0981667,-116.0265,0.6,5.1,ml,16,255,1.763,1.31,ci,ci3324933,2016-01-29T01:08:54.620Z,"68km ENE of Beatty, NV",nuclear explosion,99,31.61,0.246,9,reviewed,ci,ci
-1969-11-05T17:54:12.000Z,34.589,-121.428,10,6,mw,,,,,iscgem,iscgem801913,2018-06-04T20:43:45.000Z,"offshore Central California",earthquake,,,,,automatic,iscgem,iscgem
+1969-11-05T17:54:12.000Z,34.589,-121.428,10,6,mw,,,,,iscgem,iscgem801913,2018-06-04T20:43:45.000Z,offshore Central California,earthquake,,,,,automatic,iscgem,iscgem
 1969-10-29T22:01:52.460Z,37.1433333,-116.0638333,0.6,5.09,ml,15,257,1.734,0.42,ci,ci3326167,2016-01-28T19:38:41.690Z,"67km ENE of Beatty, NV",nuclear explosion,99,31.61,0.419,7,reviewed,ci,ci
-1969-10-22T22:51:33.000Z,34.609,-121.492,10,5.8,mw,,,,,iscgem,iscgem803657,2018-06-04T20:43:45.000Z,"offshore Central California",earthquake,,,,,automatic,iscgem,iscgem
-1969-10-02T06:19:58.900Z,38.455,-122.692,10,5.1,mb,,,,,ushis,ushis3059,2020-04-16T21:09:07.569Z,"Northern California",earthquake,,,,,reviewed,ushis,us
+1969-10-22T22:51:33.000Z,34.609,-121.492,10,5.8,mw,,,,,iscgem,iscgem803657,2018-06-04T20:43:45.000Z,offshore Central California,earthquake,,,,,automatic,iscgem,iscgem
+1969-10-02T06:19:58.900Z,38.455,-122.692,10,5.1,mb,,,,,ushis,ushis3059,2020-04-16T21:09:07.569Z,Northern California,earthquake,,,,,reviewed,ushis,us
 1969-09-16T14:30:01.290Z,37.3141667,-116.4606667,1.2,5.82,ml,13,268,1.437,0.33,ci,ci3326197,2016-01-28T19:34:29.540Z,"52km NNE of Beatty, NV",nuclear explosion,99,31.61,0.187,8,reviewed,ci,ci
 1969-07-16T14:54:52.590Z,37.6448333,-115.54,0.5,5.31,ml,9,320,2.551,0.47,ci,ci3327279,2016-01-28T19:51:33.510Z,"45km NW of Alamo, NV",nuclear explosion,99,31.61,0.135,8,reviewed,ci,ci
 1969-05-07T13:45:01.210Z,37.2828333,-116.5006667,0.6,5.03,ml,17,259,1.4,0.67,ci,ci3327353,2016-01-28T19:55:43.590Z,"47km NNE of Beatty, NV",nuclear explosion,99,31.61,0.258,12,reviewed,ci,ci
 1969-04-28T23:20:45.130Z,33.2591667,-116.361,6,5.46,ml,4,182,,0.26,ci,ci3327613,2018-06-04T20:43:45.000Z,"1km ENE of Borrego Springs, CA",earthquake,2.24,31.61,0.199,11,reviewed,ci,ci
-1969-02-07T21:25:49.100Z,40.343,-124.365,13,5.2,mb,,,,,ushis,ushis3033,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,,,,,reviewed,ushis,us
+1969-02-07T21:25:49.100Z,40.343,-124.365,13,5.2,mb,,,,,ushis,ushis3033,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,,,,,reviewed,ushis,us
 1968-12-19T16:30:01.060Z,37.2315,-116.4736667,1.4,5.52,ml,16,257,1.415,1.36,ci,ci3342181,2016-01-28T19:42:24.150Z,"44km NE of Beatty, NV",nuclear explosion,99,31.61,0.219,6,reviewed,ci,ci
 1968-08-29T22:45:01.380Z,37.2503333,-116.3468333,0.7,5.08,ml,18,259,1.517,0.38,ci,ci3328287,2016-01-28T19:38:04.600Z,"52km NE of Beatty, NV",nuclear explosion,99,31.61,0.254,10,reviewed,ci,ci
-1968-07-06T14:02:40.000Z,41.1,-117.4,,5.1,mb,,,,,ushis,ushis3019,2020-04-16T21:12:45.490Z,"Nevada",earthquake,,,,,reviewed,ushis,us
+1968-07-06T14:02:40.000Z,41.1,-117.4,,5.1,mb,,,,,ushis,ushis3019,2020-04-16T21:12:45.490Z,Nevada,earthquake,,,,,reviewed,ushis,us
 1968-07-05T00:45:17.260Z,34.1385,-119.7228333,0.18,5.05,ml,15,214,0.3016,0.45,ci,ci3328690,2018-06-04T20:43:45.000Z,"20km ENE of Santa Cruz Is. (NW end), CA",earthquake,1.85,1.65,0.053,8,reviewed,ci,ci
-1968-06-26T10:47:45.000Z,40.2,-124.3,10,5.1,mb,,,,,ushis,ushis3015,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,,,,,reviewed,ushis,us
-1968-06-26T01:42:15.400Z,40.29,-124.67,,5.5,mb,,,,,ushis,ushis3014,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,,,,,reviewed,ushis,us
-1968-06-03T13:27:40.300Z,42.2,-119.8,20,5,mb,,,,,ushis,ushis3009,2018-06-04T20:43:45.000Z,"Oregon",earthquake,,,,,reviewed,ushis,us
-1968-05-22T13:21:56.300Z,38.6,-116.2,13,5.1,mb,,,,,ushis,ushis3004,2018-06-04T20:43:45.000Z,"Nevada",earthquake,,,,,reviewed,ushis,us
-1968-04-29T00:21:39.400Z,39.54,-122.023,23,5,mb,,,,,ushis,ushis3000,2018-06-04T20:43:45.000Z,"Northern California",earthquake,,,,,reviewed,ushis,us
+1968-06-26T10:47:45.000Z,40.2,-124.3,10,5.1,mb,,,,,ushis,ushis3015,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,,,,,reviewed,ushis,us
+1968-06-26T01:42:15.400Z,40.29,-124.67,,5.5,mb,,,,,ushis,ushis3014,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,,,,,reviewed,ushis,us
+1968-06-03T13:27:40.300Z,42.2,-119.8,20,5,mb,,,,,ushis,ushis3009,2018-06-04T20:43:45.000Z,Oregon,earthquake,,,,,reviewed,ushis,us
+1968-05-22T13:21:56.300Z,38.6,-116.2,13,5.1,mb,,,,,ushis,ushis3004,2018-06-04T20:43:45.000Z,Nevada,earthquake,,,,,reviewed,ushis,us
+1968-04-29T00:21:39.400Z,39.54,-122.023,23,5,mb,,,,,ushis,ushis3000,2018-06-04T20:43:45.000Z,Northern California,earthquake,,,,,reviewed,ushis,us
 1968-04-26T15:00:01.590Z,37.2953333,-116.4556667,1.2,5.63,ml,17,261,1.438,1.03,ci,ci3342128,2016-01-28T19:50:35.290Z,"50km NNE of Beatty, NV",nuclear explosion,99,31.61,0.125,6,reviewed,ci,ci
 1968-04-09T03:03:51.090Z,32.8746667,-116.1501667,6,5.2,mh,3,229,0.5117,0.33,ci,ci10084422,2018-06-04T20:43:45.000Z,"21km NW of Ocotillo, CA",earthquake,8.65,31.61,,0,reviewed,ci,ci
 1968-04-09T02:28:59.610Z,33.1798333,-116.103,10,6.6,mw,15,128,0.6012,0.33,ci,ci3329122,2021-01-07T23:37:11.911Z,"5km NNE of Ocotillo Wells, CA",earthquake,0.88,31.61,,0,reviewed,ci,ci
 1968-02-06T00:41:38.660Z,37.9835,-118.1796667,6,5,ml,14,315,0.9285,0.27,ci,ci3357949,2018-06-04T20:43:45.000Z,"70km NNE of Dixon Lane-Meadow Creek, CA",earthquake,7.48,31.61,0.188,9,reviewed,ci,ci
-1967-12-10T12:06:55.000Z,40.478,-124.656,20,5.6,mw,,,,,iscgem,iscgem828247,2020-07-10T01:24:04.422Z,"offshore Northern California",earthquake,,,,,automatic,iscgem,iscgem
+1967-12-10T12:06:55.000Z,40.478,-124.656,20,5.6,mw,,,,,iscgem,iscgem828247,2020-07-10T01:24:04.422Z,offshore Northern California,earthquake,,,,,automatic,iscgem,iscgem
 1967-10-18T14:30:01.580Z,37.1156667,-116.0576667,0.7,5.21,ml,15,256,1.738,0.59,ci,ci3342076,2016-01-28T19:37:30.550Z,"66km ENE of Beatty, NV",nuclear explosion,99,31.61,0.341,6,reviewed,ci,ci
 1966-12-20T15:30:01.310Z,37.3021667,-116.4083333,1.2,5.62,ml,16,261,1.476,0.86,ci,ci3329931,2016-01-28T19:45:36.690Z,"53km NE of Beatty, NV",nuclear explosion,99,31.61,0.245,10,reviewed,ci,ci
-1966-09-22T18:57:37.500Z,37.4,-114.2,33,5.3,mb,,,,,ushis,ushis2928,2018-06-04T20:43:45.000Z,"Nevada",earthquake,,,,,reviewed,ushis,us
-1966-09-12T16:41:03.400Z,39.438,-120.16,10,5.91,mw,,,,,ushis,ushis2923,2020-07-10T01:50:13.206Z,"Northern California",earthquake,,,,,reviewed,ushis,ka
-1966-08-18T17:35:07.600Z,37.4,-114.2,33,5.2,mb,,,,,ushis,ushis2915,2018-06-04T20:43:45.000Z,"Nevada",earthquake,,,,,reviewed,ushis,us
-1966-08-16T18:02:36.000Z,37.38,-114.157,10,5.7,mw,,,,,iscgem,iscgem844550,2019-05-17T19:37:54.870Z,"Nevada",earthquake,,,,,automatic,iscgem,iscgem
+1966-09-22T18:57:37.500Z,37.4,-114.2,33,5.3,mb,,,,,ushis,ushis2928,2018-06-04T20:43:45.000Z,Nevada,earthquake,,,,,reviewed,ushis,us
+1966-09-12T16:41:03.400Z,39.438,-120.16,10,5.91,mw,,,,,ushis,ushis2923,2020-07-10T01:50:13.206Z,Northern California,earthquake,,,,,reviewed,ushis,ka
+1966-08-18T17:35:07.600Z,37.4,-114.2,33,5.2,mb,,,,,ushis,ushis2915,2018-06-04T20:43:45.000Z,Nevada,earthquake,,,,,reviewed,ushis,us
+1966-08-16T18:02:36.000Z,37.38,-114.157,10,5.7,mw,,,,,iscgem,iscgem844550,2019-05-17T19:37:54.870Z,Nevada,earthquake,,,,,automatic,iscgem,iscgem
 1966-08-07T17:36:27.000Z,31.661,-114.504,15,6.5,mw,,,,,iscgem,iscgem844236,2021-01-07T23:30:24.852Z,"Baja California-Sonora border region, Mexico",earthquake,,,,,automatic,iscgem,iscgem
 1966-06-30T22:15:01.290Z,37.3158333,-116.299,0.8,5.42,ml,15,270,1.564,0.3,ci,ci3330149,2016-01-28T19:49:48.740Z,"61km NE of Beatty, NV",nuclear explosion,99,31.61,0.376,10,reviewed,ci,ci
 1966-06-28T04:26:16.260Z,35.7905,-120.294,6,5.47,ml,15,247,1.183,0.48,ci,ci3330127,2020-07-07T22:12:00.665Z,"8km N of Cholame, CA",earthquake,3.51,31.61,0.075,8,reviewed,ci,ci
-1966-04-10T22:27:01.100Z,41.3,-125.6,33,5,mb,,,,,ushis,ushis2887,2018-06-04T20:43:45.000Z,"off the coast of Northern California",earthquake,,,,,reviewed,ushis,us
+1966-04-10T22:27:01.100Z,41.3,-125.6,33,5,mb,,,,,ushis,ushis2887,2018-06-04T20:43:45.000Z,off the coast of Northern California,earthquake,,,,,reviewed,ushis,us
 1965-12-03T15:13:03.450Z,37.1646667,-116.0523333,0.7,5.03,ml,12,266,1.744,0.51,ci,ci3330366,2016-01-28T19:40:48.080Z,"68km ENE of Beatty, NV",nuclear explosion,99,31.61,0.112,10,reviewed,ci,ci
 1965-09-25T17:43:44.670Z,34.7138333,-116.4316667,6,5.14,ml,11,173,0.6621,0.58,ci,ci3330460,2018-06-04T20:43:45.000Z,"25km W of Ludlow, CA",earthquake,1.96,31.61,0.213,7,reviewed,ci,ci
-1965-09-16T04:10:24.600Z,40.39,-125.6,33,5.6,mb,,,,,ushis,ushis2846,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,,,,,reviewed,ushis,us
-1965-02-12T10:50:18.000Z,40.3,-124.9,,5.3,mb,,,,,ushis,ushis2782,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,,,,,reviewed,ushis,us
+1965-09-16T04:10:24.600Z,40.39,-125.6,33,5.6,mb,,,,,ushis,ushis2846,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,,,,,reviewed,ushis,us
+1965-02-12T10:50:18.000Z,40.3,-124.9,,5.3,mb,,,,,ushis,ushis2782,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,,,,,reviewed,ushis,us
 1964-12-22T20:54:32.930Z,31.6408333,-117.1711667,6,5.37,ml,13,275,,0.63,ci,ci3330750,2018-06-04T20:43:45.000Z,"54km WSW of El Sauzal, B.C., MX",earthquake,5.22,31.61,0.131,9,reviewed,ci,ci
-1964-11-16T02:46:42.300Z,37.055,-121.692,,5.2,mb,,,,,ushis,ushis2731,2018-06-04T20:43:45.000Z,"Northern California",earthquake,,,,,reviewed,ushis,us
-1964-10-23T13:57:11.400Z,38.5,-118.4,26,5,mb,,,,,ushis,ushis2729,2018-06-04T20:43:45.000Z,"Nevada",earthquake,,,,,reviewed,ushis,us
+1964-11-16T02:46:42.300Z,37.055,-121.692,,5.2,mb,,,,,ushis,ushis2731,2018-06-04T20:43:45.000Z,Northern California,earthquake,,,,,reviewed,ushis,us
+1964-10-23T13:57:11.400Z,38.5,-118.4,26,5,mb,,,,,ushis,ushis2729,2018-06-04T20:43:45.000Z,Nevada,earthquake,,,,,reviewed,ushis,us
 1963-10-20T13:29:33.360Z,31.6846667,-115.387,6,5,mh,9,318,1.119,0.5,ci,ci10086722,2016-04-02T19:58:05.504Z,"64km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,7.09,31.61,,0,reviewed,ci,ci
 1963-09-23T14:41:53.210Z,33.7036667,-116.9381667,10.66,5.29,ml,12,120,,0.35,ci,ci3331170,2018-06-04T20:43:45.000Z,"6km SSE of Hemet, CA",earthquake,1.25,1.83,0.25,7,reviewed,ci,ci
-1963-09-14T19:46:17.000Z,36.89,-121.597,3,5.4,mb,,,,,ushis,ushis2622,2018-06-04T20:43:45.000Z,"Central California",earthquake,,,,,reviewed,ushis,us
+1963-09-14T19:46:17.000Z,36.89,-121.597,3,5.4,mb,,,,,ushis,ushis2622,2018-06-04T20:43:45.000Z,Central California,earthquake,,,,,reviewed,ushis,us
 1963-09-13T17:00:01.350Z,37.0603333,-116.0216667,0.7,5.39,ml,15,263,,0.62,ci,ci3331217,2016-01-28T19:48:49.000Z,"67km ENE of Beatty, NV",nuclear explosion,99,31.61,0.161,10,reviewed,ci,ci
 1963-06-11T15:23:42.330Z,31.9726667,-116.2516667,6,5.6,ml,8,280,0.7901,0.51,ci,ci3331349,2020-07-09T21:32:06.691Z,"37km ENE of Ensenada, B.C., MX",earthquake,5.2,31.61,0.1,9,reviewed,ci,ci
-1962-08-23T19:29:15.200Z,41.84,-124.39,59,5.6,ml,,,,,ushis,ushis2563,2020-07-10T03:39:42.568Z,"offshore Northern California",earthquake,,,,,reviewed,ushis,brk
-1962-07-14T19:43:47.800Z,40.427,-125.512,30,5.1,ml,,,,,ushis,ushis2556,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,,,,,reviewed,ushis,brk
-1962-06-06T17:50:08.800Z,39.116,-123.097,10,5.2,ml,,,,,ushis,ushis2552,2018-06-04T20:43:45.000Z,"Northern California",earthquake,,,,,reviewed,ushis,brk
+1962-08-23T19:29:15.200Z,41.84,-124.39,59,5.6,ml,,,,,ushis,ushis2563,2020-07-10T03:39:42.568Z,offshore Northern California,earthquake,,,,,reviewed,ushis,brk
+1962-07-14T19:43:47.800Z,40.427,-125.512,30,5.1,ml,,,,,ushis,ushis2556,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,,,,,reviewed,ushis,brk
+1962-06-06T17:50:08.800Z,39.116,-123.097,10,5.2,ml,,,,,ushis,ushis2552,2018-06-04T20:43:45.000Z,Northern California,earthquake,,,,,reviewed,ushis,brk
 1962-05-27T01:45:41.260Z,32.2583333,-115.7693333,6,5.1,mh,6,296,0.8713,0.39,ci,ci10086670,2016-01-28T20:01:10.180Z,"40km SSW of Progreso, B.C., MX",earthquake,6.01,31.61,,0,reviewed,ci,ci
-1962-04-14T07:53:15.300Z,40.268,-125.31,,5.4,ml,,,,,ushis,ushis2545,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,,,,,reviewed,ushis,brk
-1962-04-13T15:38:52.100Z,38.222,-119.455,6,5.1,ml,,,,,ushis,ushis2544,2018-06-04T20:43:45.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1962-04-14T07:53:15.300Z,40.268,-125.31,,5.4,ml,,,,,ushis,ushis2545,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,,,,,reviewed,ushis,brk
+1962-04-13T15:38:52.100Z,38.222,-119.455,6,5.1,ml,,,,,ushis,ushis2544,2018-06-04T20:43:45.000Z,Central California,earthquake,,,,,reviewed,ushis,brk
 1961-10-19T05:09:45.480Z,35.8643333,-117.7946667,6.29,5.13,ml,14,122,,0.4,ci,ci3344648,2018-06-04T20:43:45.000Z,"13km SE of Little Lake, CA",earthquake,1.09,2.27,0.083,7,reviewed,ci,ci
-1961-07-04T11:09:11.000Z,40.13,-118.6,,5,ml,,,,,ushis,ushis2502,2018-06-04T20:43:45.000Z,"Nevada",earthquake,,,,,reviewed,ushis,brk
-1961-07-04T04:56:00.000Z,40.9,-118.4,,5.4,ml,,,,,ushis,ushis2501,2018-06-04T20:43:45.000Z,"Nevada",earthquake,,,,,reviewed,ushis,brk
-1961-04-09T07:25:41.000Z,36.683,-121.3,,5.5,ml,,,,,ushis,ushis2492,2018-06-04T20:43:45.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
-1961-04-09T07:23:16.000Z,36.683,-121.3,,5.6,ml,,,,,ushis,ushis2491,2020-07-10T03:49:49.994Z,"Central California",earthquake,,,,,reviewed,ushis,brk
-1961-04-06T04:04:45.000Z,40.183,-124.75,,5.1,ml,,,,,ushis,ushis2490,2018-06-04T20:43:45.000Z,"offshore Northern California",earthquake,,,,,reviewed,ushis,brk
+1961-07-04T11:09:11.000Z,40.13,-118.6,,5,ml,,,,,ushis,ushis2502,2018-06-04T20:43:45.000Z,Nevada,earthquake,,,,,reviewed,ushis,brk
+1961-07-04T04:56:00.000Z,40.9,-118.4,,5.4,ml,,,,,ushis,ushis2501,2018-06-04T20:43:45.000Z,Nevada,earthquake,,,,,reviewed,ushis,brk
+1961-04-09T07:25:41.000Z,36.683,-121.3,,5.5,ml,,,,,ushis,ushis2492,2018-06-04T20:43:45.000Z,Central California,earthquake,,,,,reviewed,ushis,brk
+1961-04-09T07:23:16.000Z,36.683,-121.3,,5.6,ml,,,,,ushis,ushis2491,2020-07-10T03:49:49.994Z,Central California,earthquake,,,,,reviewed,ushis,brk
+1961-04-06T04:04:45.000Z,40.183,-124.75,,5.1,ml,,,,,ushis,ushis2490,2018-06-04T20:43:45.000Z,offshore Northern California,earthquake,,,,,reviewed,ushis,brk
 1961-02-02T00:07:44.610Z,37.4853333,-118.4973333,6,5.1,mh,11,301,,0.65,ci,ci10086626,2018-06-04T20:43:45.000Z,"13km NNW of Dixon Lane-Meadow Creek, CA",earthquake,3.61,31.61,,0,reviewed,ci,ci
 1961-02-02T00:04:13.040Z,37.7695,-118.198,6,5.3,mh,6,317,1.642,0.67,ci,ci10086622,2018-06-04T20:43:45.000Z,"47km NNE of Dixon Lane-Meadow Creek, CA",earthquake,6.19,31.61,,0,reviewed,ci,ci
 1961-01-28T08:12:47.740Z,35.758,-118.0408333,6,5.05,ml,14,88,0.365,0.43,ci,ci3347759,2018-06-04T20:43:45.000Z,"23km SSW of Little Lake, CA",earthquake,1.06,31.61,0.063,5,reviewed,ci,ci
-1960-12-27T10:35:28.000Z,41.416,-125.074,20,5.9,mw,,,,,iscgem,iscgem881080,2019-05-13T21:56:04.067Z,"offshore Northern California",earthquake,,,,,automatic,iscgem,iscgem
-1960-06-06T01:17:53.000Z,40.729,-124.792,15,6,mw,,,,,iscgem,iscgem879414,2020-07-10T04:11:31.327Z,"offshore Northern California",earthquake,,,,,automatic,iscgem,iscgem
-1960-01-20T03:25:53.000Z,36.783,-121.433,,5,ml,,,,,ushis,ushis2433,2018-06-04T20:43:45.000Z,"Central California",earthquake,,,,,reviewed,ushis,brk
+1960-12-27T10:35:28.000Z,41.416,-125.074,20,5.9,mw,,,,,iscgem,iscgem881080,2019-05-13T21:56:04.067Z,offshore Northern California,earthquake,,,,,automatic,iscgem,iscgem
+1960-06-06T01:17:53.000Z,40.729,-124.792,15,6,mw,,,,,iscgem,iscgem879414,2020-07-10T04:11:31.327Z,offshore Northern California,earthquake,,,,,automatic,iscgem,iscgem
+1960-01-20T03:25:53.000Z,36.783,-121.433,,5,ml,,,,,ushis,ushis2433,2018-06-04T20:43:45.000Z,Central California,earthquake,,,,,reviewed,ushis,brk
