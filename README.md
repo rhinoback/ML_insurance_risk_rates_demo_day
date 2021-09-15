@@ -18,11 +18,17 @@ Machine learning can not give an accurate, meaningful, and non lethal classifica
 
 Yes the program correctly classified this house as one with VERY HIGH risk.  Just like it was trained to.  But guess what? Turns out model was wrong. Very wrong. A human came out and did an assessment of the property and, unbenownst to the current owner, the house's foundation had been retrofitted with pilons driven down to bedrock.  Turns out this is the safest house in the entire distict. "Good news! Your house just went from VERY HIGH risk to EXTREMELY SAFE. Someone must have made a data entry error in the county records cuz it isn't in the database... probably use space instead of an underscore.  Good thing you called a human."
 
-I hope this was a fun story.  But image if it had been the reverse?  A house with all the top ratings in build type (wood and steel blend), no slope, on bedrock, only a decade old, 6 stories instead of the dreaded 2-4, everything looks great.  Building is deemed EXTREMELY SAFE.  Inspector comes out and says, "I have it in the county records that this 6 story super condo you're living in is on bedrock."  "yes sir."  "Well, I don't know where that information came from but you're on landfill. And there's already a bit of a sinking in the northwest corner. If an earthquake hits, this structure will likely collapse. Have a nice day."
+HOWEVER... as long as the homeowner knows the specifics of their home, one should be able to write a machine learning algorithm that works for that informed homeowner.  I am still working on this.  I have lots of research on the history and have done serious research on KNN v Random Forest methods.  I think a Random Forest classification system is the way to go.  I would love help!  
 
-And that is why I chose to do a movie and a map instead.
+Right now I have a short video and a user friendly map to learn about CA earthquakes made with Google Maps.
 
-Thank you for your time.  Here is the Cracking California Project.  It's pretty neat.  Enjoy!
+I LOOK FORWARD TO DEVELOPING THE MACHINE LEARNING ASPECT!  I have lots and lots of research so that is already done!
+
+PLEASE EMAIL IF YOU ARE INERESTED IN HELPING!!! 
+
+ryan@ripetimes.press
+
+Thank you for your time.  Here is the Cracking California Project.  It's pretty neat (but we can make it better together!).  Enjoy!
 https://ripetimes.press/cracking-california-earthquake-project
 
 
