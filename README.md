@@ -76,3 +76,5 @@ Phase 7 Machine Learning Improvement:  (In Progress)
 
 Phase 8 Data Visualization:  (see map here)
 
+For more email me at ryanlouderback@gmail.com
+
