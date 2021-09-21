@@ -26,10 +26,10 @@ I LOOK FORWARD TO DEVELOPING THE MACHINE LEARNING ASPECT!  I have lots and lots 
 
 PLEASE EMAIL IF YOU ARE INERESTED IN HELPING!!! 
 
-ryan@ripetimes.press
+ryanlouderback@gmail.com
 
 Thank you for your time.  Here is the Cracking California Project.  It's pretty neat (but we can make it better together!).  Enjoy!
-https://ripetimes.press/cracking-california-earthquake-project
+https://ripetimes.press/cracking-california-earthquake-project. (Rhis is the foundation.)
 
 
 
