@@ -34,3 +34,45 @@ https://ripetimes.press/cracking-california-earthquake-project
 
 
 
+The Big Picture
+
+Cracking California with the Shake Love Model
+A New Class In Determining Earthquake Insurance Risk For The Consumer
+A Research Paper and Application Overview 
+
+Synopsis
+Cracking California with the Shake Love Model is a project meant to engage, inform, and, if applicable, initiate action from the user who is interested in learning more about insuring their property by using a multi pronged media platform.  This platform includes a short film, website, and interactive map as well as graphs for relevant data.  The risk assessment portion is a machine learning model that assesses a residential structure’s earthquake risk (this last piece is still in development and I am happy to work with someone more familiar with machine learning at this level to advance the project). 
+
+Where is the BIG Data?
+Unfortunately, or perhaps fortunately for the residents of California, earthquakes large enough to do serious damage don’t happen that often, even in California, which is pretty seismically active.  When they do, they are catastrophic. But unlike the auto insurance industry, a serious earthquake in a populated area does not occur hundreds of times a day but rather once a decade or even a generation.  When they do hit, most of the data that can be kept private is kept private.  This is proprietary information and the insurance companies are in no rush to share it.  Yes we have the geo data from the USGS and clothes, but insurance companies have no incentive to make their data public. 
+
+As for using data from countries like Japan, it is actually fairly useless.  That is because Japan has Raleigh waves which can take down skyscrapers but are much safer for smaller buildings and that is due to their subduction zone induced earthquakes.  This is in contrast to California which has Love waves from the Strike-Slip fault system which is most dangerous for buildings 2-4 stories high. 
+
+
+Measurable Objectives
+This project is based on research which informs a classification style machine learning model that will do the following.
+1. Determine the overall damage risk for a property of user interest by weighing a number of relevant features to classify the property as “High”, “Mid”, or “Low Risk”.  These features and their weight are based on extensive research.
+2. Apply the output from the first objective to inform the user of the accumulation of risk for the property over the span of a normal mortgage (30 years).
+3. Using Google Maps as the base, construct an engaging and informative interactive and layered map with information relevant to a user interested in, among other things, earthquake insurance.
+4. Design the map so that a user that is interested in earthquake insurance will be able to easily learn about their area(s) of interest and take meaningful action such as clicking on a link to learn more about earthquake insurance from an appropriate authority.
+
+
+Phases
+Planning & Research / Extract Transform Load  / Data Analysis / Machine Learning Training and Testing / Machine Learning: Enhancing the Model / Visualizing the Results
+
+The project was split into 6 phases: 
+
+Phase 1 Research:  Phase 1 concentrated on planning the project, considering what measurable objectives could be achieved in the given time frame.  Research into Machine Learning as well as seismology, structural engineering, and other related areas were concurrent and this approach has seemed useful.  Admittedly, there has been some jumping between phases as the need to better understand machine learning made it necessary to take small sample sets of early data and run them through the ML process to better determine what was needed as well as what ML model to choose.  Additionally, the project’s scope had to be narrowed from starting with California to choosing to major cities within the state. One must keep in mind that California is, both in terms of population and geography, the size of many European nations, and to attempt an accurate Machine Learning model on such scale given the time allowed would have been highly unlikely.  Thus, San Francisco and Los Angeles were chosen to narrow the scope in the interest of obtaining more accurate Machine Learning results. 
+
+Phase 2-4 Extract, Transform, Load (ETL):  
+
+The 2nd phase was the extraction, transformation, and loading of numerical data into a server.   Data from the USGS and its partnering institutions’ databases was extracted, transformed, and loaded into a PostgreSQL server using PGAdmin. Here, the numerical data could be easily sorted and cleaned not only for my own research and understanding but also so that models and visualization of this data could be undertaken at a later stage.  During the phase, the data was transformed in order to meet the goals of the project which included the dropping of extraneous columns, reformatting date and time when necessary, and creating new tables specifically designed to meet the objectives of this particular project.
+
+Phase 5 Data Analysis: The truth is that the analysis of data was occurring in some manner at every stage leading up to Phase 4. However, it was in this phase that I was able to really nail down what it was that I had, and how it was to be used in the Shake Love ML model.   The relationships between the variables of building type, building damage level, earthquake intensity, region, distance from epicenter, the role of retrofitting, soil type/ liquefaction, and building eras all came together in a way that made sense in this phase.  Now that I could better understand the relationships, I positioned myself for better results with the Shake Love Machine Learning model.  For me, all these steps were crucial in order to train and test the classification model I knew I needed to use and achieve accurate and meaningful results with real world applicability. 
+
+Phase 6 Machine Learning Training:  I knew I wanted to develop a prototype earthquake risk and damage casualty estimation model based on classifications.  Using two classification methods I have begun to practice with models based on the extensive research.  I have tried both Random Forest and KNN models.  This training is ongoing. 
+
+Phase 7 Machine Learning Improvement:  (In Progress)
+
+Phase 8 Data Visualization:  (see map here)
+
