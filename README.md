@@ -1,4 +1,5 @@
 # ML_insurance_risk_rates 
+(currently the research paper is private as it is in progress but email me if you'd like to be added ryanlouderback@gmail.com)
 Project in machine learning to determine structure risk and insurance premium rates within various magnitdue parameters
 This project suffers from two issues afte much research and analysis. While it isn't very difficult to make a simple machine learning classification model based on valid and extensive research which I have done, what your really producing is a categorical filter with no way to prove that your accuracy means anything.  If you did three classes of RED (high risk), YELLOW (mid risk) and (GREEN) low risk, there is no reason to call if machine learning. It's simply a filter based on a scoring system which I can just do in Excel.  
 There are no databases or sets of databases that exist or even could exist in theory that could learn how to classify a building's individual earthquake risk with any meaningful accuracy.
